@@ -1,0 +1,9 @@
+site_name: VIZJA Psychologia
+repo_url: https://github.com/Mutisz/vizja-psychologia
+theme:
+  name: material
+  locale: pl
+  features:
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes

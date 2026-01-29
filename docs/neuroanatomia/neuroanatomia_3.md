@@ -1,4 +1,4 @@
-# NEUROANATOMIA - WYKŁAD 3: RDZEŃ KRĘGOWY I PIEŃ MÓZGU
+﻿# NEUROANATOMIA - WYKŁAD 3: RDZEŃ KRĘGOWY I PIEŃ MÓZGU
 
 ## 1. TERMINOLOGIA PODSTAWOWA
 
@@ -34,8 +34,6 @@
 | **Neurony o krótkich aksonach** | Kończą się w tym samym ośrodku | Działają lokalnie (pobudzająco/hamująco), tworzą **sieci neuronalne** |
 | **Neurony o długich aksonach** | Przenoszą informacje na duże odległości | Łączenie odległych struktur |
 
----
-
 ## 2. RDZEŃ KRĘGOWY - ANATOMIA OGÓLNA
 
 ### Lokalizacja i granice
@@ -65,8 +63,6 @@
 | **Nadstożek** | Przyległy do stożka | Segmenty L4-S2 |
 | **Ogon koński** (cauda equina) | Poniżej L2 | Gałęzie nerwów L2-Co w przestrzeni podpajęczynówkowej |
 
----
-
 ## 3. BUDOWA ZEWNĘTRZNA RDZENIA
 
 ### Bruzdy i szczeliny
@@ -93,8 +89,6 @@
 **Korzenie nerwowe:**
 - **Korzenie brzuszne (przednie)** – wychodzą przez bruzdę przednią boczną
 - **Korzenie grzbietowe (tylne)** – wychodzą przez bruzdę tylną boczną
-
----
 
 ## 4. BUDOWA WEWNĘTRZNA RDZENIA
 
@@ -150,8 +144,6 @@
 **Dodatkowo:**
 - **Komórki graniczne** (L2-S3) – czucie głębokie nieuświadomione (wrzeciona mięśniowe, ciałka Golgiego)
 
----
-
 ## 5. BLASZKI REXEDA (WARSTWY ISTOTY SZAREJ)
 
 **Definicja:** Pola wyodrębnione w rdzeniu na podstawie cytoarchitektoniki (budowa komórkowa)
@@ -172,8 +164,6 @@
 
 **Analogia:** Podobne do pól Brodmanna w korze mózgowej
 
----
-
 ## 6. ZRÓŻNICOWANIE RDZENIA W POSZCZEGÓLNYCH ODCINKACH
 
 ### Przekroje charakterystyczne
@@ -183,8 +173,6 @@
 | **Szyjny** | Dużo (≈ istota biała) | Dużo | Rogi przednie grubsze, rogi tylne wysmukłe |
 | **Piersiowy** | Mało | Dużo | Rogi wąskie; **róg boczny** (układ autonomiczny) |
 | **Lędźwiowy** | Dużo | Mało | Rogi masywne (tylne i przednie) |
-
----
 
 ## 7. NERWY RDZENIOWE
 
@@ -230,8 +218,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 
 **Neuromer (segment rdzeniowy)** – odcinek rdzenia, z którym łączy się jedna para nerwów rdzeniowych
 
----
-
 ## 8. DROGI NERWOWE RDZENIA
 
 ### Klasyfikacja dróg
@@ -262,8 +248,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 
 ⚠️ **Uwaga:** Szczegóły dróg będą omawiane po poznaniu struktur mózgowia (oliwka, jądro czerwienne, twór siatkowaty, etc.)
 
----
-
 ## 9. UNACZYNIENIE RDZENIA
 
 ### Tętnice główne
@@ -284,8 +268,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 - TH: tętnice międzyżebrowe
 - L: tętnice lędźwiowe, **tętnica Dankiewicza**, biodrowo-lędźwiowa
 - S: tętnica krzyżowa boczna
-
----
 
 ## 10. URAZY RDZENIA KRĘGOWEGO
 
@@ -353,8 +335,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 | **TH7-TH12** | Do pasa | Poniżej pasa |
 | **L1-S5** | Tułów | Kończyny dolne |
 
----
-
 ## 11. DERMATOMY
 
 **Definicja:** Obszar skóry unerwiony czuciowo przez pojedynczy nerw rdzeniowy
@@ -380,8 +360,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 | Mięśnie | **Miotom** |
 | Kości, stawy | **Sklerotom** |
 | Opony mózgowo-rdzeniowe | **Meningotom** |
-
----
 
 ## 12. PIEŃ MÓZGU - OGÓLNIE
 
@@ -420,8 +398,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 **Odruchy wrodzone:** Ssanie, żucie, połykanie, wymioty, kichanie, kaszel, mruganie, regulowanie przemiany materii
 
 ❗ **Poważne uszkodzenie pnia mózgu = śmierć**
-
----
 
 ## 13. ŚRÓDMÓZGOWIE (MESENCEPHALON)
 
@@ -502,8 +478,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 | **Ramię wzgórka dolnego** | Droga słuchowa |
 | **Pęczek podłużny przyśrodkowy** | Droga słuchowa |
 
----
-
 ## 14. ZESPOŁY USZKODZEŃ ŚRÓDMÓZGOWIA
 
 ⚠️ **Poważne uszkodzenia → śmierć**
@@ -546,8 +520,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 
 **Korzenie n. okoruchowego:**
 - Porażenie mięśni zaopatrywanych przez n. III (oko ruchowy)
-
----
 
 ## 15. MOST (PONS)
 
@@ -602,8 +574,6 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 - Twór siatkowaty
 - Drogi czuciowe
 
----
-
 ## 16. RDZEŃ PRZEDŁUŻONY
 
 ⚠️ **Uwaga:** Szczegóły będą omawiane na następnym wykładzie
@@ -612,9 +582,7 @@ Po wyjściu z otworu międzykręgowego nerw oddaje:
 
 **Funkcje:** (będą uzupełnione)
 
----
-
-## 17. NAJWAŻNIEJSZE INFORMACJE DO ZAPAMIĘTANIA
+## NAJWAŻNIEJSZE INFORMACJE DO ZAPAMIĘTANIA
 
 ### 🔑 Kluczowe struktury
 

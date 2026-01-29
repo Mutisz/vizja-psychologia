@@ -1,4 +1,4 @@
-# NEUROANATOMIA - WYKŁAD 2: UKŁAD HORMONALNY I STRUKTURY NEURONU
+﻿# NEUROANATOMIA - WYKŁAD 2: UKŁAD HORMONALNY I STRUKTURY NEURONU
 
 ## 1. HORMONY - PODSTAWY
 
@@ -27,8 +27,6 @@
 - **Steroidy** (pochodzą z cholesterolu)
 - **Pochodne kwasów tłuszczowych**
 
----
-
 ## 2. REGULACJA HORMONALNA
 
 ### Sprzężenie zwrotne (feedback)
@@ -51,8 +49,6 @@ GRUCZOŁY DOKREWNE
 NARZĄDY EFEKTOROWE
 ```
 
----
-
 ## 3. NEUROHORMONY
 
 ### Definicja
@@ -74,8 +70,6 @@ NARZĄDY EFEKTOROWE
 - **Oksytocyna** – produkowana w podwzgórzu, magazynowana w tylnym płacie przysadki
 
 ⚠️ **UWAGA:** Liberyny i statyny **kontrolują przysadkę**, wazopresyna i oksytocyna są **magazynowane** (nie produkowane) w przysadce
-
----
 
 ## 4. PRZYSADKA MÓZGOWA (HYPOPHYSIS)
 
@@ -128,8 +122,6 @@ NARZĄDY EFEKTOROWE
 | **Oksytocyna** | - | Wspomaga zapłodnienie, skurcze macicy (poród) | Przednia część podwzgórza |
 | **Wazopresyna** | **ADH** | ↑ wchłanianie zwrotne wody w kanalikach nerkowych → ↓ ilość moczu, zapobiega odwodnieniu | Przednia część podwzgórza |
 
----
-
 ## 5. PODWZGÓRZE (HYPOTHALAMUS)
 
 ### Charakterystyka
@@ -166,8 +158,6 @@ NARZĄDY EFEKTOROWE
 **Część tylna (sutkowa):**
 - Jądra suteczkowate (przyśrodkowe, boczne)
 - Jądra tylne
-
----
 
 ## 6. GRUCZOŁY DOKREWNE
 
@@ -280,7 +270,6 @@ NARZĄDY EFEKTOROWE
 
 ⚠️ **Insulina + glukagon = podstawowi regulatorzy węglowodanów** (ale też wpływ na białka i tłuszcze!)
 
----
 
 ## 7. CUKRZYCA (DIABETES MELLITUS)
 
@@ -307,7 +296,6 @@ Uszkodzenie/niewydolność: oczy, nerki, nerwy, serce, naczynia krwionośne
 ✅ Leczenie nadciśnienia  
 ✅ Leczenie chorób układu krążenia  
 
----
 
 ## 8. HORMONY PŁCIOWE
 
@@ -392,8 +380,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 - Faza pęcherzykowa → wzrost aż do **owulacji**
 - Spadek w fazie ciałka żółtego
 
----
-
 ## 9. HORMONY TKANKOWE (MIEJSCOWE)
 
 **Definicja:** Hormony uczestniczące w lokalnym, pozanerwowym sterowaniu narządów
@@ -413,8 +399,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 - **Prostaglandyny**
 - **Histamina**
 - **Serotonina**
-
----
 
 ## 10. TKANKA NERWOWA - BUDOWA NEURONU
 
@@ -451,8 +435,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 
 ⚠️ **Energia:** Przepływ jonów przez błonę wymaga nakładu energii (neurony muszą być odżywiane)
 
----
-
 ## 11. SYNAPSA - POWTÓRKA
 
 ### Synapsa chemiczna (najczęstsza)
@@ -467,8 +449,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 - **Brak mediatora**
 
 ❗ **Obowiązuje znajomość synapsy chemicznej!**
-
----
 
 ## 12. KOMÓRKI GLEJOWE (GLEJ/GLIA)
 
@@ -505,8 +485,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 **Prekursory oligodendrocytów:**
 - Przy uszkodzeniu → aktywacja → rozwój nowych oligodendrocytów
 - Przy dużych uszkodzeniach: mechanizm nieefektywny
-
----
 
 ## 13. NERW (NERVUS)
 
@@ -546,7 +524,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 | **Nerwy rdzeniowe** | Rdzeń kręgowy | 31 par |
 | **Nerwy ze splotów** | Anastomozy (połączenia) nerwów rdzeniowych | Różnie |
 
----
 
 ## 14. ŁUK ODRUCHOWY (REFLEX ARC)
 
@@ -581,8 +558,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 - **Odruchy bezwarunkowe**
 - Proces na poziomie **rdzenia kręgowego** (bez udziału mózgu)
 
----
-
 ## 15. OPONY MÓZGOWO-RDZENIOWE (MENINGES)
 
 ### Definicja
@@ -615,8 +590,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 - Między pajęczynówką a oponą miękką
 - Wypełniona **płynem mózgowo-rdzeniowym**
 - Pajęczynówka łączy się z oponą miękką poprzez pasma i beleczki łącznotkankowe
-
----
 
 ## 16. OPONA TWARDA - SZCZEGÓŁY
 
@@ -660,8 +633,6 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 
 #### Dolny zespół zatok
 - Punkt centralny: **Zatoka jamista**
-
----
 
 ## 17. PŁYN MÓZGOWO-RDZENIOWY (CSF)
 
@@ -745,9 +716,7 @@ Estrogeny w osoczu: związane z białkami (albumina lub globulina SHBG)
 - Gęstość CSF vs. gęstość substancji znieczulającej
 - Pozwala przewidzieć szybkość rozprzestrzeniania w znieczuleniu wewnątrzoponowym
 
----
-
-## 18. KLUCZOWE TERMINY - PODSUMOWANIE
+## KLUCZOWE TERMINY - PODSUMOWANIE
 
 ### Hormony steroidowe
 Wszystkie pochodzą z **cholesterolu**:
@@ -768,9 +737,7 @@ Gruczoły dokrewne (hormony docelowe)
 ### Sprzężenie zwrotne
 - ↑ Hormon A → ↓ Hormon B (ujemne sprzężenie zwrotne)
 
----
-
-## 19. CO NALEŻY DOBRZE ZNAĆ
+## CO NALEŻY DOBRZE ZNAĆ
 
 ### ✅ Układ hormonalny
 - Hierarchia: podwzgórze → przysadka → gruczoły
@@ -803,9 +770,7 @@ Gruczoły dokrewne (hormony docelowe)
 - Masa mózgu: 1400g → 25g w CSF
 - Wodogłowie (mechanizm)
 
----
-
-## 20. WAŻNE LICZBY DO ZAPAMIĘTANIA
+## WAŻNE LICZBY DO ZAPAMIĘTANIA
 
 | Parametr | Wartość |
 |----------|---------|

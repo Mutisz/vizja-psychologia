@@ -1,4 +1,4 @@
-# NEUROANATOMIA - PODSUMOWANIE WYKŁADU
+﻿# NEUROANATOMIA - WYKŁAD 1: PODSTAWY NEUROANATOMII
 
 ## 1. KLASYFIKACJA SYSTEMATYCZNA CZŁOWIEKA
 
@@ -17,8 +17,6 @@
 **Zasada nazewnictwa (Linneusz):**
 - Zawsze 2 części: rodzaj + gatunek
 - Przykład: *Homo sapiens*
-
----
 
 ## 2. ANATOMIA JAKO NAUKA
 
@@ -48,8 +46,6 @@
 - Anatomia palpacyjna (badanie przez opukiwanie/obmacywanie)
 - USG (ultrasonografia)
 
----
-
 ## 3. HISTORIA ANATOMII
 
 ### Kroki milowe
@@ -70,8 +66,6 @@
 - Termin **"neuronauka"** jest niepoprawny (kalka z ang.)
 - Prawidłowo: **neurobiologia** lub **neuroanatomia**
 
----
-
 ## 4. PODSTAWOWE POJĘCIA ANATOMICZNE
 
 ### Zmienność anatomiczna
@@ -83,8 +77,6 @@
 - **Nomina Anatomica** (po łacinie) – międzynarodowy standard
 - Nazewnictwo lokalne (polskie, angielskie, etc.)
 - Każda struktura ma określoną nazwę i kod
-
----
 
 ## 5. POZYCJA ANATOMICZNA I PŁASZCZYZNY
 
@@ -116,8 +108,6 @@
 **Brzegi kończyn:**
 - Przedramię/ręka: promieniowy/łokciowy, grzbietowy/dłoniowy
 - Goleń/stopa: piszczelowy/strzałkowy, grzbietowy/podeszwowy
-
----
 
 ## 6. OKOLICE CIAŁA
 
@@ -155,8 +145,6 @@
 
 #### Kończyny górna/dolna
 
----
-
 ## 7. OSIE CIAŁA
 
 1. **Oś pionowa**
@@ -164,8 +152,6 @@
 3. **Oś strzałkowa**
 
 Wyznaczają położenie płaszczyzn w ciele.
-
----
 
 ## 8. JAMY CIAŁA
 
@@ -178,8 +164,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 | **Jama miednicy** | Narządy miednicy |
 
 **Funkcja:** Ochrona narządów (ograniczenia kostne)
-
----
 
 ## 9. UKŁADY NARZĄDÓW
 
@@ -201,8 +185,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - **Szkielet osiowy** – czaszka + klatka piersiowa + kręgosłup
 - **Szkielet obwodowy** – kończyny górne i dolne
 
----
-
 ### 9.2. Układ mięśniowy (miologia)
 
 **Składniki:** Mięśnie poprzecznie prążkowane (szkieletowe)
@@ -216,8 +198,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Mięśnie brzucha
 - Mięśnie grzbietu
 - Mięśnie kończyn górnych/dolnych
-
----
 
 ### 9.3. Układ trawienny/pokarmowy (splanchnologia)
 
@@ -245,8 +225,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Doprowadzanie O₂ do krwi
 - Usuwanie CO₂
 
----
-
 ### 9.5. Układ moczowo-płciowy
 
 #### A. Układ moczowy
@@ -265,8 +243,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Wytwarzanie komórek płciowych (plemniki/komórki jajowe)
 - **Jedyny układ służący zachowaniu gatunku, nie życia osobniczego**
 
----
-
 ### 9.6. Układ wewnątrzwydzielniczy (hormonalny/dokrewny)
 
 **Składniki:**
@@ -282,8 +258,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 | **Hormony dokrewne** | Gruczoły dokrewne | Krew/chłonka → cały organizm |
 
 **Funkcje:** Głęboki wpływ na funkcjonowanie ustroju, ściśle skoordynowane działanie
-
----
 
 ### 9.7. Układ sercowo-naczyniowy
 
@@ -306,8 +280,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Transport tłuszczów z układu pokarmowego do krwi
 - **Limfa przepływa** (nie krąży)
 - Zaczyna się naczyniami kapilarnymi → drogi limfatyczne → węzły chłonne → **kąty żył podobojczykowych**
-
----
 
 ### 9.8. Układ nerwowy
 
@@ -334,8 +306,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 
 **Funkcje:** Regulacja narządów wewnętrznych, wydzielanie gruczołów, mięśniówka gładka, naczynia krwionośne
 
----
-
 ### 9.9. Narządy zmysłów (estezjologia)
 
 **Składniki:**
@@ -346,8 +316,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Receptory w skórze i tkankach
 
 **Funkcje:** Odbieranie bodźców ze świata zewnętrznego → nerwy → mózg → uświadomienie → tworzenie świata pojęciowego
-
----
 
 ### 9.10. Powłoka wspólna (skóra)
 
@@ -361,8 +329,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Gospodarka cieplna i wodna
 - Funkcje wydzielnicze, wydalnicze, resorpcyjne
 - Procesy odpornościowe
-
----
 
 ## 10. BUDOWA SKÓRY
 
@@ -422,8 +388,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Obrąbek naskórkowy (skórka)
 - **Macierz paznokcia** – miejsce wzrostu
 
----
-
 ## 11. RECEPTORY SKÓRY
 
 ### Definicja receptora
@@ -453,8 +417,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 ⚠️ **UWAGA:** Niektóre receptory reagują na bodźce nietypowe:
 - Termoreceptory + nocyceptory → **kapsaicyna** (papryczka)
 - Receptory zimna → **mentol**
-
----
 
 ## 12. WOSKOWINA USZNA (CERUMEN)
 
@@ -490,8 +452,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 ❌ **NIE zalecane:**
 - Patyczki higieniczne → ryzyko przebicia błony bębenkowej
 
----
-
 ## 13. KOMÓRKA I TKANKI
 
 ### Komórka - powtórka z liceum
@@ -523,8 +483,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 4. **Tkanka nerwowa**:
    - Tkanka nerwowa właściwa (neurony)
    - Tkanka glejowa (komórki glejowe)
-
----
 
 ## 14. TKANKA NERWOWA - NEURON
 
@@ -575,8 +533,6 @@ Wyznaczają położenie płaszczyzn w ciele.
 - Przepływ jonów Na⁺
 - **Brak mediatora**
 
----
-
 ## 15. CZASZKA
 
 ### Podział czaszki
@@ -607,8 +563,6 @@ Zawierają poszczególne części mózgu.
 - Nazwy poszczególnych kości
 - Struktury widoczne na przekrojach
 
----
-
 ## 16. CZASZKA NOWORODKA
 
 ### Cechy charakterystyczne
@@ -628,8 +582,6 @@ Zawierają poszczególne części mózgu.
 - Okno diagnostyczne (USG)
 - Dostęp do naprawy wad rozwojowych
 
----
-
 ## 17. KOSTECZKI SŁUCHOWE
 
 **Lokalizacja:** Wewnątrz kości skroniowej
@@ -645,8 +597,6 @@ Zawierają poszczególne części mózgu.
 
 **Funkcja:** Przenoszenie drgań z błony bębenkowej do ślimaka
 
----
-
 ## 18. KOŚĆ GNYKOWA
 
 **Lokalizacja:** Szyja (ale należy do czaszki twarzowej)
@@ -660,9 +610,7 @@ Zawierają poszczególne części mózgu.
 - Mięśnie z czaszki
 - Mięśnie podgnykowe
 
----
-
-## 19. WAŻNE TERMINY I NAZWY
+## WAŻNE TERMINY I NAZWY
 
 ### Terminologia łacińska
 - **Nomina Anatomica** – oficjalne nazewnictwo anatomiczne
@@ -677,9 +625,7 @@ Zawierają poszczególne części mózgu.
 | Neuronauka | **Neurobiologia** / **Neuroanatomia** |
 | Dwutlenek węgla | **Tlenek węgla(IV)** lub **CO₂** |
 
----
-
-## 20. INFORMACJE ORGANIZACYJNE Z WYKŁADU
+## ZAKRES EGZAMINU
 
 ### Zakres egzaminu
 - **Główny nacisk:** Układ nerwowy
@@ -690,20 +636,14 @@ Zawierają poszczególne części mózgu.
 1. Układ hormonalny (wewnątrzwydzielniczy)
 2. Ośrodkowy układ nerwowy (OUN)
 
----
-
 ## KLUCZOWE ZASADY DO ZAPAMIĘTANIA
 
 ### 🔑 5 najważniejszych rzeczy
 
 1. **Człowiek = Homo sapiens** (2 części nazwy: rodzaj + gatunek)
-
 2. **Anatomia = klucz do medycyny** (podstawa wszystkich nauk medycznych)
-
 3. **Zmienność anatomiczna = norma** (każdy człowiek jest inny wewnątrz)
-
 4. **OUN = mózgowie + rdzeń kręgowy** (NIE "centralny"!)
-
 5. **Synapsa chemiczna:** 
    - Impuls → Ca²⁺ → uwalnianie neuroprzekaźnika → receptory → nowy impuls
 
