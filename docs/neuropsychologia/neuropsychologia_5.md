@@ -1,17 +1,24 @@
 ﻿# NEUROPSYCHOLOGIA - WYKŁAD 5: SYSTEMY PAMIĘCI
 
+### [Transkrypcja](transkrypcje/neuropsychologia_5_transkrypcja.md)
+
+---
+
 ## 1. DEFINICJE PAMIĘCI
 
 ### Historyczna definicja (William James)
 
 **Pamięć pierwotna:**
+
 - Dotyczy **teraźniejszości**
 - Wiąże się ze **świadomością**
 
 **Pamięć wtórna:**
+
 - Związana z **przeżyciami z przeszłości**
 
 **Aspekty powiązane:** Świadomość i uwaga
+
 - Co kodujemy w pamięci?
 - Co jesteśmy w stanie przywołać?
 - Ściśle powiązane z procesami uwagowymi
@@ -21,15 +28,18 @@
 ### Współczesna definicja (kompleksowa)
 
 **Pamięć jako PROCES:**
+
 > "Proces, dzięki któremu człowiek zapisuje, przechowuje i odtwarza informacje"
 
 **2 główne domeny czasowe:**
 
 #### A. Pamięć retrospektywna
+
 - Informacje dotyczące **własnej przeszłości i świata**
 - Wydarzenia z przeszłości
 
 #### B. Pamięć prospektywna
+
 - **Plany, zamiary i zadania** do wykonania w przyszłości
 - Budowanie scenariuszy przyszłych działań
 - Oparta na doświadczeniach i obrazie świata
@@ -47,6 +57,7 @@
 ---
 
 **Pamięć jako ZBIÓR:**
+
 - Zbiór informacji gromadzonych w ciągu życia
 - Możliwość odniesienia się do konkretnych wydarzeń
 - "Magazyn" wiedzy o świecie
@@ -77,14 +88,18 @@
 
 **Kluczowe:** Zawsze **wewnętrzna i subiektywna** reprezentacja (NIE obiektywne odniesienie)
 
+---
+
 ## 2. MODELE BADANIA PAMIĘCI
 
 ### 4 typy modeli
 
 #### 1. Modele jakościowe
+
 **Pytanie:** Czy pewne efekty/procesy **istnieją** czy **nie istnieją**?
 
 **Przykład:** Model pamięci roboczej
+
 - Czy bodziec jest zapamiętywany?
 - Czy jest w pamięci krótkotrwałej?
 - Czy później jest w pamięci długotrwałej?
@@ -94,9 +109,11 @@
 ---
 
 #### 2. Modele ilościowe
+
 **Pytanie:** **Ile?** (określenie ilościowe parametru)
 
-**Przykład:** 
+**Przykład:**
+
 - Ile cyfr można odtworzyć z pamięci? (typowo: 5-7)
 - Ile figur geometrycznych?
 - Ile wyrazów?
@@ -106,9 +123,11 @@
 ---
 
 #### 3. Modele parametryczne
+
 **Pytanie:** Jakie są **parametry** zjawiska?
 
 **Charakterystyka:** Określenie właściwości ilościowych procesu
+
 - Tempo
 - Intensywność
 - Czas trwania
@@ -116,17 +135,22 @@
 ---
 
 #### 4. Modele różnic indywidualnych
+
 **Pytanie:** Jak różnią się **osoby**?
 
 **Charakterystyka:** Porównanie między jednostkami
+
 - Sprawność pamięci u różnych osób
 - Różnice w strategiach zapamiętywania
+
+---
 
 ## 3. MODEL ATKINSONA I SHIFFRINA (LATA 60.)
 
 ### Struktura modelu
 
 **Podział pamięci:**
+
 - Pamięć **krótkotrwała**
 - Pamięć **długotrwała**
 
@@ -158,6 +182,7 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Obserwacje kliniczne:** Rozdzielność systemów pamięci krótko- i długotrwałej
 
 **Problem:** Jeśli pamięć długotrwała zależy od krótkotrwałej, dlaczego:
+
 - U niektórych pacjentów zaburzona **tylko** pamięć krótkotrwała?
 - U innych zaburzona **tylko** pamięć długotrwała?
 
@@ -168,17 +193,21 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Zabieg:** Resekcja (usunięcie) hipokampa
 
 **Skutki:**
+
 - **Utrata** pamięci krótkotrwałej
 - **Zachowanie** większości funkcji pamięci długotrwałej
 - Niemożność zapamiętywania nowych informacji
 
-**⚠️ Krytyka:** 
+**⚠️ Krytyka:**
+
 - Często przedstawiany jako "klasyczny przypadek izolowanego zaburzenia"
 - **JEDNAK:** Zaburzenia funkcji czołowych uzasadnione historią medyczną
 - Objawy mogły wskazywać także na zaburzenie funkcji kory czołowej
 - **NIE tylko** izolowane zaburzenie hipokampa
 
 **Wniosek:** Nawet najbardziej klasyczne przypadki kliniczne nie mają jednostronnego i jednolitego przebiegu
+
+---
 
 ## 4. PAMIĘĆ ROBOCZA
 
@@ -187,6 +216,7 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Pamięć robocza** ≈ Pamięć krótkotrwała (ale pojęcie szersze)
 
 **Charakterystyka:**
+
 - Pamięć **bieżących zdarzeń**
 - Pojawienie: Później niż model Atkinsona-Shiffrina
 - Obecnie: Powszechnie rozpoznawany koncept
@@ -196,6 +226,7 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ### Podział pamięci roboczej
 
 **Według modalności:**
+
 - Pamięć werbalna (słowa, język)
 - Pamięć niewerbalna (obrazy, dźwięki)
 - Pamięć wzrokowa
@@ -209,10 +240,12 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Tradycyjne ujęcie:** 7 ± 2 jednostki informacji (Miller)
 
 **Współczesne badania:** Zależy od:
+
 - **Złożoności bodźców**
 - **Multimodalności** (więcej modalności → większa pojemność)
 
 **Przykład:**
+
 - Bodźce tylko semantyczne (słowa) → ograniczona pojemność
 - Bodźce semantyczne + ikoniczne (wygląd) → większa pojemność
 - **Równoległe przetwarzanie różnych modalności** → sprzyja przechowywaniu
@@ -222,30 +255,35 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ### Implikacje praktyczne
 
 **Uczenie się:**
+
 - Osoby lepiej przetwarzają informacje **wzrokowe**
 - Inne lepiej przetwarzają informacje **słuchowe**
 - Definiuje optymalny proces uczenia się
 
 **ADHD:**
+
 - Szybsze przetwarzanie bodźców
 - **ALE:** Ograniczona ilość jednostek informacji
 - Fragmentowanie na mniejsze porcje → strategia nie zawsze adaptacyjna
+
+---
 
 ## 5. PODZIAŁY PAMIĘCI - RÓŻNE ASPEKTY
 
 ### A. Czas utrzymywania śladu pamięciowego
 
-| Typ pamięci | Czas trwania |
-|-------------|--------------|
-| **Ultra krótkotrwała** | Widzimy coś → za chwilę zapominamy |
-| **Krótkotrwała** | Sekundy do minut (często = pamięć robocza) |
-| **Długotrwała** | Minuty do lat |
+| Typ pamięci            | Czas trwania                               |
+| ---------------------- | ------------------------------------------ |
+| **Ultra krótkotrwała** | Widzimy coś → za chwilę zapominamy         |
+| **Krótkotrwała**       | Sekundy do minut (często = pamięć robocza) |
+| **Długotrwała**        | Minuty do lat                              |
 
 ---
 
 ### B. Charakter treści pamięci
 
 **Typy:**
+
 - **Werbalna** vs **niewerbalna**
 - **Ikoniczna** (obrazy, wygląd obiektów)
 - **Semantyczna** (znaczenie, wiedza ogólna)
@@ -260,6 +298,7 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Definicja:** Zapamiętywanie konkretnych **sekwencji ruchów i czynności**
 
 **Przykłady:**
+
 - Jazda na rowerze
 - Jazda na nartach
 - Wpisywanie PIN-u na klawiaturze
@@ -267,6 +306,7 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Charakterystyka:** Często **niejawna** (utajona)
 
 **Przykład fenomenu:**
+
 > "Łatwiej wpisać PIN mając klawiaturę przed sobą niż go sobie przypomnieć"
 
 **Przyczyna:** Sekwencja zapamiętana proceduralnie → ograniczony dostęp świadomy
@@ -276,9 +316,11 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ### C. Forma przechowywania i mechanizm wydobycia
 
 #### Pamięć deklaratywna (jawna, opisowa)
+
 **Charakterystyka:** Możemy wydobyć i opisać
 
 **Przykłady:**
+
 - Fakty
 - Wydarzenia
 - Wiedza, którą można werbalizować
@@ -286,9 +328,11 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ---
 
 #### Pamięć niedeklaratywna (niejawna, utajona)
+
 **Charakterystyka:** Trudniejsza do zdefiniowania
 
 **Przykłady:**
+
 - Intuicja
 - Wiedza ekspercka (trudna do opisania)
 - Savanci: Wykonują skomplikowane obliczenia, ale **nie znają** sposobu dojścia do rozwiązania
@@ -300,14 +344,17 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ### D. Sposób przetwarzania danych
 
 **Pamięć proceduralna:**
+
 - Konkretne obiekty definiowane proceduralnie
 - Sekwencje, algorytmy
 
 **Pamięć emocjonalna:**
+
 - Wrażenia i emocje powiązane z obiektami
 - **NIE** charakter proceduralny
 
 **Przykład:**
+
 - Wspomnienie epizodu można traktować **proceduralnie** (wydarzyło się wtedy, taki przebieg)
 - **LUB** emocjonalnie (jakie uczucia towarzyszyły)
 
@@ -316,6 +363,7 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ### E. Pamięć jawna vs ukryta
 
 #### Pamięć jawna
+
 **Charakterystyka:** Świadome, aktywne wydobywanie informacji
 
 **Proces:** Bezpośrednie odpytywanie pamięci
@@ -323,25 +371,30 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ---
 
 #### Pamięć ukryta
+
 **Charakterystyka:** Nieświadome przetwarzanie
 
 **Badania (konsumenci kupujący samochód):**
 
 **Grupa A (jawna):**
+
 - Zapoznanie z pełną informacją
 - Świadomy dostęp do informacji
 - Decyzja na podstawie jawnych danych
 
 **Grupa B (ukryta):**
+
 - Otrzymanie informacji
 - **Czas na spacer/jazdę na rowerze** (inna czynność)
 - Decyzja po fazie niejawnej
 
 **Wyniki:**
+
 - Grupa B (ukryta): Decyzje **bardziej satysfakcjonujące**
 - Decyzje postrzegane jako **bardziej zoptymalizowane**
 
 **Wniosek:**
+
 > "Często zamęczanie się na bieżąco danym problemem NIE jest najlepszym pomysłem. Usunięcie problemu na jakiś czas i powrócenie do niego może być dużo bardziej efektywną strategią"
 
 **Zastosowanie:** Regulowane odraczanie zadań → dostęp do zasobów pamięci ukrytej
@@ -351,6 +404,7 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ### F. Modalność postrzegania
 
 **Typy pamięci według zmysłów:**
+
 - Słuchowa
 - Wzrokowa
 - Dotykowa
@@ -366,16 +420,19 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Definicja:** Mieszanie się informacji sensorycznych
 
 **Charakterystyka:**
+
 - Odbieranie jednego zmysłu przy pomocy innego
 - Występuje u części ludzi fizjologicznie
 - Często powiązana z procesami patofizjologicznymi (napady padaczkowe)
 
 **Przykłady:**
+
 - Widzenie liczb jako różne kolory
 - Słyszenie równań matematycznych
 - Wizualizacje dla wrażeń z innego zmysłu
 
 **Synestezja a pamięć:**
+
 - Często u osób z **wybitną pamięcią** (savanci)
 - **Wielomodalność** → zwiększone zapamiętywanie złożonych bodźców
 - Kodowanie informacji jako bardziej złożonych
@@ -385,15 +442,18 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 ### Węch i pamięć (szczególnie intensywna modalność)
 
 **Przyczyna ewolucyjna:**
+
 - Pokarm o określonym zapachu/smaku → może być **trujący**
 - Zagrażający życiu
 - Informacja z otoczenia + zapach/smak → **kluczowa dla przeżycia**
 
 **Charakterystyka:**
+
 - Szczególnie silnie kodowana
 - W połączeniu z innymi bodźcami
 
 **Fenomen:**
+
 > "Czując dany zapach, przywołujemy konkretne wspomnienie, pomimo że zapach teoretycznie niepowiązany – przenosi nas do przeszłości do wydarzenia powiązanego z takim samym zapachem"
 
 ---
@@ -401,10 +461,13 @@ Magazyn pamięci DŁUGOTRWAŁEJ
 **Zastosowania praktyczne:**
 
 #### Terapia
+
 Bodźce zapachowe/smakowe → dotarcie do trudno dostępnych wspomnień
 
 #### Uczenie się
+
 **Technika:**
+
 1. Uczenie się trudnego problemu
 2. Powiązanie z zapachem (np. gumka zapachowa)
 3. Przywołanie zapachu podczas egzaminu
@@ -418,59 +481,71 @@ Bodźce zapachowe/smakowe → dotarcie do trudno dostępnych wspomnień
 ### G. Domena życia człowieka
 
 **Pamięć retrospektywna:**
+
 - Wspomnień
 - "Co się wydarzyło?"
 
 **Pamięć prospektywna:**
+
 - Intencji, planów
 - Konieczność działania
 - Budowanie scenariuszy przyszłych kroków
 
 **Znaczenie kliniczne:**
+
 - **PTSD:** Aktualne postrzeganie oparte na zniekształconym obrazie emocji z przeszłości
 - Trudność w budowaniu zdrowych planów przyszłościowych
+
+---
 
 ## 6. STRUKTURY NEUROANATOMICZNE PAMIĘCI
 
 ### Podział według struktur
 
-| Struktura | Funkcja pamięciowa |
-|-----------|-------------------|
-| **Hipokamp** | Pamięć epizodyczna (wydarzenia) |
-| **Kora przedczołowa** | Pamięć semantyczna (znaczenia, wiedza) |
-| **Zakręt obręczy** | Pamięć emocjonalna |
-| **Kora skojarzeniowa** | Pamięć przestrzenna |
-| **Jądro ogoniaste** | Pamięć genetyczna (instynkty, reakcje instynktowne) |
+| Struktura              | Funkcja pamięciowa                                  |
+| ---------------------- | --------------------------------------------------- |
+| **Hipokamp**           | Pamięć epizodyczna (wydarzenia)                     |
+| **Kora przedczołowa**  | Pamięć semantyczna (znaczenia, wiedza)              |
+| **Zakręt obręczy**     | Pamięć emocjonalna                                  |
+| **Kora skojarzeniowa** | Pamięć przestrzenna                                 |
+| **Jądro ogoniaste**    | Pamięć genetyczna (instynkty, reakcje instynktowne) |
 
 ---
 
 ### Podział według typu pamięci
 
 **Pamięć deklaratywna:**
+
 - **Struktury:** Przyśrodkowa powierzchnia płatów skroniowych + kora przedczołowa
 
 **Pamięć semantyczna:**
+
 - **Struktury:** Przednia część płata skroniowego półkuli dominującej
 - Ośrodki Broki i Wernickego
 
 **Pamięć proceduralna:**
+
 - **Struktury:** **Jądra podstawy** + **móżdżek**
 - Automatyzacja czynności, ruchów
 - Przykład: Jazda na rowerze
 
 **Przykład kliniczny - alkohol:**
+
 - Móżdżek szybko zaburzony przez alkohol
 - Pamięć proceduralna szybko zaburzona
 - Test trzeźwości: "Przejdź po linii prostej"
 - Kontrola zachowania zachowana, ale NIE koordynacja ruchów
 
 **Pamięć emocji:**
+
 - **Struktury:** Układ limbiczny + kora mózgowa
   - Hipokamp
   - Sklepienie
   - Zakręt obręczy
   - Ciała suteczkowate
   - Kora przedczołowa (regulacja emocji)
+
+---
 
 ## 7. PAMIĘĆ DŁUGOTRWAŁA - PODZIAŁ SZCZEGÓŁOWY
 
@@ -496,18 +571,23 @@ PAMIĘĆ DŁUGOTRWAŁA
 ### Pamięć niedeklaratywna - szczegóły
 
 #### Proceduralna
+
 **Przykład:** Jazda na rowerze
 
 #### Instrumentalna
+
 **Charakterystyka:**
+
 - Odruchy warunkowe
 - Bezpośrednia reakcja na bodźce
 - Często niemożliwa do kontroli
 
 #### Priming
+
 **Definicja:** Aktywowanie części reprezentacji tuż przed wykonaniem zadania
 
 **Przykład - mowa:**
+
 - **Poziom deklaratywny:** Przekazujemy myśl (semantyka)
 - **Poziom niedeklaratywny:** Wypowiadanie spójnego zdania (fonetyka, struktura)
 - Priming pozwala układać zdanie "w locie"
@@ -515,18 +595,23 @@ PAMIĘĆ DŁUGOTRWAŁA
 **Zaburzenia:** Mowa niespójna, fragmentaryczna (charakterystyczne dla zaburzeń psychotycznych, NIE typowa afazja)
 
 #### Habituacja
+
 **Definicja:** Zanikanie lub osłabianie zapamiętanych reakcji w wyniku powtarzania nieistotnych bodźców
 
 **Mechanizm:** Bodziec niepowiązany z niczym konkretnym → zanikanie śladu pamięciowego
+
+---
 
 ## 8. HIPOKAMP I PAMIĘĆ EPIZODYCZNA
 
 ### Funkcja hipokampa
 
 **Rola:**
+
 > "Chwilowe przechwytywanie w skondensowanej postaci korowych reprezentacji wydarzeń"
 
 **Charakterystyka:**
+
 - Struktura najbardziej odpowiedzialna za pamięć roboczą
 - Kodowanie w komponentach sensorycznych i motorycznych
 - Reprezentacja tego, co dzieje się aktualnie w pamięci roboczej
@@ -540,9 +625,12 @@ PAMIĘĆ DŁUGOTRWAŁA
 **Cykliczne wyładowania elektryczne:** Z poziomu całego układu limbicznego
 
 **Znaczenie:** Może być podstawą ograniczenia buforu pamięci roboczej
+
 - Cykliczność działania
 - Informacje zastępowane nowymi
 - Wymywanie/wymazywanie między cyklami
+
+---
 
 ## 9. MEDIATORY PAMIĘCI (NEUROPRZEKAŹNIKI)
 
@@ -558,19 +646,24 @@ PAMIĘĆ DŁUGOTRWAŁA
 
 **Funkcja:** Mediatory pamięci **proceduralnej** (utajonej)
 
+---
+
 ## KLUCZOWE INFORMACJE DO ZAPAMIĘTANIA
 
 ### 🔑 Definicje pamięci
 
 **William James:**
+
 - Pierwotna (teraźniejszość, świadomość)
 - Wtórna (przeszłość)
 
 **Współczesna (proces):**
+
 - Retrospektywna (przeszłość i świat)
 - Prospektywna (plany, zamiary, przyszłość)
 
 **3 aspekty procesu:**
+
 1. Zapis
 2. Przechowywanie
 3. Odtwarzanie
@@ -578,6 +671,7 @@ PAMIĘĆ DŁUGOTRWAŁA
 **Pamięć jako zbiór:** Magazyn informacji z życia
 
 **4 ujęcia (Lipowska):**
+
 1. Zdolność poznawcza
 2. Hipotetyczny system (magazyn)
 3. Wewnętrzny zapis (reprezentacja)
@@ -590,6 +684,7 @@ PAMIĘĆ DŁUGOTRWAŁA
 ### 🔑 Modele badania
 
 **4 typy:**
+
 1. Jakościowe (jest/nie ma)
 2. Ilościowe (ile? 5-7 cyfr)
 3. Parametryczne (parametry zjawiska)
@@ -604,6 +699,7 @@ PAMIĘĆ DŁUGOTRWAŁA
 **Problem:** Sprzeczny z danymi klinicznymi (rozdzielność systemów)
 
 **Pacjent H.M. (Henry Molaison):**
+
 - Resekcja hipokampa
 - Utrata pamięci krótkotrwałej
 - Zachowanie pamięci długotrwałej
@@ -618,11 +714,13 @@ PAMIĘĆ DŁUGOTRWAŁA
 **Podział:** Werbalna, niewerbalna, wzrokowa, słuchowa, przestrzenna
 
 **Pojemność:**
+
 - Tradycyjnie: 7±2 jednostki (Miller)
 - Współcześnie: Zależy od złożoności i multimodalności
 - Równoległe przetwarzanie modalności → większa pojemność
 
 **Implikacje:**
+
 - Uczenie się (wzrok vs słuch)
 - ADHD (szybkie przetwarzanie, ograniczona ilość jednostek)
 
@@ -639,6 +737,7 @@ PAMIĘĆ DŁUGOTRWAŁA
 **D. Sposób przetwarzania:** Proceduralna vs emocjonalna
 
 **E. Jawna vs ukryta:**
+
 - Jawna: Świadome wydobywanie
 - Ukryta: Nieświadome (badania samochód - ukryta > jawna)
 - Wniosek: Odroczenie problemu → efektywniejsza strategia
@@ -652,20 +751,24 @@ PAMIĘĆ DŁUGOTRWAŁA
 ### 🔑 Fenomeny specjalne
 
 **Pamięć proceduralna:**
+
 - Sekwencje ruchów (jazda na rowerze)
 - Niejawna (PIN łatwiej wpisać niż przypomnieć)
 
 **Savanci:**
+
 - Obliczenia matematyczne w formie niedeklaratywnej
 - Znajdują odpowiedź, nie znają drogi
 
 **Synestezja:**
+
 - Mieszanie zmysłów
 - Liczby jako kolory
 - Występuje u osób z wybitną pamięcią
 - Wielomodalność → lepsze zapamiętywanie
 
 **Węch i pamięć:**
+
 - Przyczyna ewolucyjna (pokarm trujący)
 - Szczególnie silne kodowanie
 - Zapach → konkretne wspomnienie
@@ -691,17 +794,20 @@ PAMIĘĆ DŁUGOTRWAŁA
 ### 🔑 Pamięć długotrwała
 
 **Deklaratywna:**
+
 - Epizodyczna
 - Semantyczna
 - Autobiograficzna
 
 **Niedeklaratywna:**
+
 - Proceduralna (jazda)
 - Instrumentalna (odruchy)
 - Priming (aktywowanie przed zadaniem)
 - Habituacja (zanikanie reakcji)
 
 **Priming a mowa:**
+
 - Deklaratywna: Semantyka (myśl)
 - Niedeklaratywna: Fonetyka, struktura
 - Zaburzenia: Mowa fragmentaryczna (psychozy, NIE afazja)
@@ -729,21 +835,22 @@ PAMIĘĆ DŁUGOTRWAŁA
 
 ### 📊 Kluczowe liczby
 
-| Parametr | Wartość |
-|----------|---------|
-| Modele badania | 4 typy |
-| Aspekty procesu | 3 (zapis, przechowywanie, odtwarzanie) |
-| Ujęcia Lipowska | 4 |
-| Pojemność pamięci roboczej | 7±2 (tradycyjnie) |
-| Podziały pamięci | 7 aspektów (A-G) |
+| Parametr                      | Wartość                                               |
+| ----------------------------- | ----------------------------------------------------- |
+| Modele badania                | 4 typy                                                |
+| Aspekty procesu               | 3 (zapis, przechowywanie, odtwarzanie)                |
+| Ujęcia Lipowska               | 4                                                     |
+| Pojemność pamięci roboczej    | 7±2 (tradycyjnie)                                     |
+| Podziały pamięci              | 7 aspektów (A-G)                                      |
 | Typy pamięci niedeklaratywnej | 4 (proceduralna, instrumentalna, priming, habituacja) |
-| Główne mediatory | 3 (acetylocholina, dopamina, adrenalina) |
+| Główne mediatory              | 3 (acetylocholina, dopamina, adrenalina)              |
 
 ---
 
 ### ✅ CO NALEŻY DOBRZE ZNAĆ
 
 **Definicje:**
+
 - William James (pierwotna vs wtórna)
 - Współczesna (proces: retrospektywna+prospektywna)
 - 3 aspekty (zapis, przechowywanie, odtwarzanie)
@@ -751,11 +858,13 @@ PAMIĘĆ DŁUGOTRWAŁA
 - Subiektywność reprezentacji
 
 **Modele:**
+
 - 4 typy modeli badania (charakterystyki)
 - Atkinson-Shiffrin (struktura, problem, H.M.)
 - Krytyka H.M. (nie tylko hipokamp!)
 
 **Pamięć robocza:**
+
 - Definicja (bieżące zdarzenia)
 - Podział według modalności
 - Pojemność (7±2, ale zależy od...)
@@ -763,27 +872,32 @@ PAMIĘĆ DŁUGOTRWAŁA
 - Implikacje (uczenie się, ADHD)
 
 **7 podziałów pamięci:**
+
 - A-G (wszystkie aspekty!)
 - Szczegóły każdego podziału
 - Przykłady dla każdego typu
 
 **Fenomeny:**
+
 - Proceduralna (PIN)
 - Savanci (niedeklaratywna)
 - Synestezja (definicja, przykłady, związek z pamięcią)
 - Węch (ewolucja, fenomen, zastosowania)
 
 **Pamięć jawna vs ukryta:**
+
 - Badanie samochód (2 grupy)
 - Wyniki (ukryta > jawna)
 - Wniosek praktyczny (odroczenie)
 
 **Struktury:**
+
 - 5 struktur i ich funkcje (tabela)
 - Podział według typu pamięci (szczegóły)
 - Przykład alkohol (móżdżek!)
 
 **Pamięć długotrwała:**
+
 - Schemat podziału (drzewo)
 - Deklaratywna (3 typy)
 - Niedeklaratywna (4 typy)
@@ -791,11 +905,13 @@ PAMIĘĆ DŁUGOTRWAŁA
 - Habituacja (mechanizm)
 
 **Hipokamp:**
+
 - Funkcja (przechwytywanie reprezentacji)
 - Rytmy theta (cykliczność)
 - Związek z buforem (wymywanie)
 
 **Mediatory:**
+
 - 3 główne (funkcje)
 - Znaczenie kliniczne (acetylocholina)
 
@@ -803,5 +919,5 @@ PAMIĘĆ DŁUGOTRWAŁA
 
 **KONIEC PODSUMOWANIA WYKŁADU 5**
 
-*Opracowano na podstawie transkryptu wykładu z neuropsychologii*
-*Materiał zoptymalizowany pod egzamin – systemy pamięci, podziały, struktury, fenomeny*
+_Opracowano na podstawie transkryptu wykładu z neuropsychologii_
+_Materiał zoptymalizowany pod egzamin – systemy pamięci, podziały, struktury, fenomeny_

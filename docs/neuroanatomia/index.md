@@ -1,5 +1,7 @@
 ﻿# NEUROANATOMIA
 
+---
+
 ## 📚 Kompletny zestaw podsumowań do egzaminu
 
 ### [Wykład 1: Podstawy neuroanatomii - terminologia i płaszczyzny anatomiczne](neuroanatomia_1.md)
@@ -94,20 +96,7 @@
   - Droga smakowa (3 neurony, jądro samotne)
   - Drogi somatosensoryczne (czucie powierzchowne i głębokie)
 
-## 📋 Informacje praktyczne
-
-**Format plików:** Markdown (.md)
-
-**Optymalizacja:** Wszystkie podsumowania przygotowane pod egzamin – zwięzłe definicje, tabele, listy, kluczowe liczby
-
-**Struktura każdego wykładu:**
-
-- Przejrzyste nagłówki i podrozdziały
-- Tabele porównawcze
-- Wyróżnienia (⚠️, ❗, ✅)
-- Sekcja "Kluczowe informacje do zapamiętania"
-- Tabela liczb do zapamiętania
-- Lista "Co należy dobrze znać"
+---
 
 ## 🎯 Strategia nauki
 
@@ -116,6 +105,8 @@
 3. **Zapamiętaj liczby** z tabel (liczba jąder, par nerwów, warstw, etc.)
 4. **Ćwicz na schematach** – wykłady zawierają opisy ilustracji
 5. **Powtarzaj aktywnie** – używaj metody fiszek (zakryj nazwy, spróbuj przypomnieć)
+
+---
 
 ## 📌 Najważniejsze tematy pod egzamin
 
@@ -144,6 +135,8 @@
 - **Istota biała** (3 typy włókien)
 - **Droga węchowa i smakowa**
 
+---
+
 ## ✅ Checklist przed egzaminem
 
 - [ ] Przeczytałem/am wszystkie wykłady (1-6)
@@ -161,4 +154,3 @@
 **Powodzenia na egzaminie! 🎓✨**
 
 _Materiały opracowane na podstawie transkryptów wykładów z neuroanatomii_
-

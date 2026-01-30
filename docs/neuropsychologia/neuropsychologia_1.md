@@ -1,16 +1,23 @@
 ﻿# NEUROPSYCHOLOGIA - WYKŁAD 1: WPROWADZENIE DO NEUROPSYCHOLOGII
 
+### [Transkrypcja](transkrypcje/neuropsychologia_1_transkrypcja.md)
+
+---
+
 ## 1. NEUROPSYCHOLOGIA - DEFINICJA I ZAKRES
 
 ### Etymologia
-**Neuropsychologia** = *neuron* (komórka nerwowa) + *psyche* (dusza, umysł) + *logos* (nauka)
+
+**Neuropsychologia** = _neuron_ (komórka nerwowa) + _psyche_ (dusza, umysł) + _logos_ (nauka)
 
 ---
 
 ### Definicja
+
 **Neuropsychologia** – nauka z pogranicza **medycyny** i **psychologii**
 
 **Przedmiot zainteresowania:**
+
 - Związki między **strukturami mózgu** a **czynnościami psychicznymi**
 - Wpływ mózgu na **procesy poznawcze** i **procesy psychiczne**
 
@@ -21,17 +28,20 @@
 **Definicja:** Dziedzina psychologii zajmująca się badaniem, jak funkcjonowanie mózgu wpływa na zachowanie i procesy poznawcze człowieka
 
 **Obszary działania:**
+
 - **Diagnoza** pacjentów z problemami neurologicznymi
 - **Leczenie**
 - **Rehabilitacja**
 
 **Typowe problemy neurologiczne:**
+
 - Urazy mózgu
 - Udary
 - Demencja
 - Zaburzenia rozwojowe
 
 **Objawy kliniczne:**
+
 - Zaburzenia pamięci
 - Zaburzenia myślenia
 - Zaburzenia uwagi
@@ -43,13 +53,15 @@
 
 **Stan psychiczny pacjenta wynika z:**
 
-| Perspektywa | Opis |
-|-------------|------|
-| **Proces ciągły w czasie** | Stan mózgu w danej chwili (krótkoterminowy) |
-| **Ontogeneza** | Rozwój jednostki – jak mózg rozwijał się przez całe życie pacjenta |
-| **Filogeneza** | Rozwój gatunkowy – mózg jako produkt ewolucji, zmiany na przestrzeni milionów lat |
+| Perspektywa                | Opis                                                                              |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| **Proces ciągły w czasie** | Stan mózgu w danej chwili (krótkoterminowy)                                       |
+| **Ontogeneza**             | Rozwój jednostki – jak mózg rozwijał się przez całe życie pacjenta                |
+| **Filogeneza**             | Rozwój gatunkowy – mózg jako produkt ewolucji, zmiany na przestrzeni milionów lat |
 
 **Wniosek:** Stan psychiczny pacjenta NIE jest tylko stanem danej struktury anatomicznej, ale **procesem rozciągniętym w czasie** – mającym zaczepienie w teraźniejszości, ontogenezie i filogenezie
+
+---
 
 ## 2. ORGANIZACJA KORY MÓZGOWEJ
 
@@ -60,16 +72,19 @@
 **Kryterium:** Różnice w budowie komórkowej poszczególnych obszarów kory
 
 **Pionierzy:**
+
 - **Theodor Meynert** (1881) – pierwszy podział
 - **Korbinian Brodmann** (1909) – najbardziej znane mapy mózgu
 
 **Pola Brodmana:**
+
 - Opracowane w 1909 roku
 - Podział na podstawie cytoarchitektoniki (morfologia i wzajemna architektura komórek)
 - Początkowo: **47-52 pola** (różne prace, różne gatunki)
 - Około **~50 obszarów** z odmienną architekturą komórkową
 
 **Problem:** Ile różnic uwzględniać?
+
 - Kilkanaście pól?
 - Kilkadziesiąt pól?
 - Kilkaset pól (bardzo drobne różnice)?
@@ -84,6 +99,7 @@
 **Pionierzy:** Broca, Campbell, Flechsig, Vogt, Sarkisov i inni
 
 **Metody:**
+
 - Obserwacja funkcji poszczególnych obszarów
 - Analiza wpływu uszkodzeń konkretnych obszarów na utratę funkcji
 
@@ -93,19 +109,22 @@
 
 **5 głównych grup funkcjonalnych:**
 
-| Typ kory | Charakterystyka |
-|----------|-----------------|
-| **Pierwotna kora sensory czno-motoryczna** | Kora czuciowo-ruchowa |
-| **Jednomodalowe (drugorzędowe) okol ice asocjacyjne** | - |
-| **Wielomodalne (trzeciorzędowe) okolice asocjacyjne** | - |
-| **Kora paralimbiczna** | Inne funkcje |
-| **Kora limbiczna** | Układ limbiczny |
+| Typ kory                                              | Charakterystyka       |
+| ----------------------------------------------------- | --------------------- |
+| **Pierwotna kora sensory czno-motoryczna**            | Kora czuciowo-ruchowa |
+| **Jednomodalowe (drugorzędowe) okol ice asocjacyjne** | -                     |
+| **Wielomodalne (trzeciorzędowe) okolice asocjacyjne** | -                     |
+| **Kora paralimbiczna**                                | Inne funkcje          |
+| **Kora limbiczna**                                    | Układ limbiczny       |
+
+---
 
 ## 3. BUDOWA KORY NOWEJ (NEOKORTEKS)
 
 ### Charakterystyka ogólna
 
 **Kora nowa (neokorteks):**
+
 - **6 warstw** histologicznych
 - **Istota szara** (ciała komórek) – na zewnątrz kory
 - **Istota biała** (aksony łączące obszary) – wewnątrz
@@ -117,12 +136,14 @@
 **Koncepcja:** Kora zorganizowana w **kolumny korowe**
 
 **Hipoteza jednostek promienistych** (Radial Unit Hypothesis)
+
 - Autor: **Paško Rakić** (fizjolog, lata 70.)
 - Kora rozwija się z komórek macierzystych podczas embriogenezy
 - Komórki migrują na zewnątrz, tworząc kolumny korowe
 - Powstanie kolumn = pochodna **proto-mapy** (początkowego ułożenia komórek)
 
 **Przykład:** Kora baryłkowa u szczurów
+
 - Odpowiedzialna za wibrysy (wąsy)
 - Każdy rząd wibrysa ma odpowiadającą mu jednostkę – **baryłkę**
 - Baryłki = kolumny ułożone w korze
@@ -132,6 +153,7 @@
 ### Rozwój kory - migracja neuronów
 
 **Proces:**
+
 1. Komórki namnażają się wewnątrz mózgu (obszary wewnętrzne)
 2. Wytwarzane są **prekursory neuronów**
 3. Neurony **migrują** do poszczególnych warstw kory
@@ -149,6 +171,8 @@
 
 **Wniosek:** Podejście strukturalne i funkcjonalne są **komplementarne**
 
+---
+
 ## 4. ROZWÓJ MÓZGU CZŁOWIEKA
 
 ### Etapy embriogenezy
@@ -156,6 +180,7 @@
 **Pochodzenie:** Ektoderma (zewnętrzna warstwa zarodkowa) → **neuralny ektoderm**
 
 **Kluczowe struktury:**
+
 1. **Rynienka nerwowa** – zagłębienie w zarodku
 2. **Cewa nerwowa** – zamknięta rynienka
 3. **3 pierwotne pęcherzyki mózgowe** – w części głowowej cewy
@@ -166,18 +191,20 @@
 
 ### Procesy rozwojowe mózgu
 
-| Proces | Opis |
-|--------|------|
-| **Neurulacja** | Tworzenie cewy nerwowej |
-| **Proliferacja** | Namnażanie komórek w pęcherzykach |
-| **Neurogeneza** | Intensywne tworzenie nowych komórek nerwowych; migracja od środka na zewnątrz |
-| **Różnicowanie mikrogleju** | Tworzenie komórek mikrogleju (z komórek glejowych) |
-| **Synaptogeneza** | Tworzenie połączeń między neuronami; **bardzo zintensyfikowana** w rozwoju |
-| **Eliminacja synaps** | Likwidacja zbędnych połączeń (dojrzewanie) |
-| **Apoptoza** | Programowana śmierć komórek (eliminacja zbędnych neuronów) |
-| **Mielinizacja** | Otaczanie aksonów mieliną (izolacja, ↑ szybkość przewodzenia) |
+| Proces                      | Opis                                                                          |
+| --------------------------- | ----------------------------------------------------------------------------- |
+| **Neurulacja**              | Tworzenie cewy nerwowej                                                       |
+| **Proliferacja**            | Namnażanie komórek w pęcherzykach                                             |
+| **Neurogeneza**             | Intensywne tworzenie nowych komórek nerwowych; migracja od środka na zewnątrz |
+| **Różnicowanie mikrogleju** | Tworzenie komórek mikrogleju (z komórek glejowych)                            |
+| **Synaptogeneza**           | Tworzenie połączeń między neuronami; **bardzo zintensyfikowana** w rozwoju    |
+| **Eliminacja synaps**       | Likwidacja zbędnych połączeń (dojrzewanie)                                    |
+| **Apoptoza**                | Programowana śmierć komórek (eliminacja zbędnych neuronów)                    |
+| **Mielinizacja**            | Otaczanie aksonów mieliną (izolacja, ↑ szybkość przewodzenia)                 |
 
 **Uwaga:** Te procesy zachodzą w **różnym czasie** i **różnym natężeniu** w trakcie rozwoju
+
+---
 
 ## 5. MODELE FUNKCJONALNE MÓZGU
 
@@ -190,6 +217,7 @@
 **Składniki:** Struktury podporowe (pień mózgu, twór siatkowaty, układ limbiczny)
 
 **Funkcja:** Utrzymywanie **tonusu kory mózgowej**
+
 - Zapewnianie stymulacji
 - Dopływ bodźców z narządów zmysłów
 
@@ -198,6 +226,7 @@
 #### **Blok 2: Informacyjny**
 
 **Funkcja:**
+
 - Odbiór i przekazywanie bodźców
 - Przetwarzanie bodźców sensorycznych
 - Wytwarzanie ruchu
@@ -238,16 +267,20 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 ### Model hierarchii rozproszonej (Freeman, Felleman, Van Essen 1991)
 
 **Krytyka modelu Łurii:**
+
 - Połączenia NIE są jednokierunkowe
 - Struktury mają **połączenia obustronne**:
   - **Aferentne** (wstępujące, dochodzące)
   - **Eferentne** (zstępujące, wychodzące)
 
 **Wniosek:**
+
 - Istnieje możliwość **informacji zwrotnej**
 - Przepływ informacji w mózgu jest **wielokierunkowy**
 - Możemy mówić o **hierarchii rozproszonej**
 - Istnieją **piętra procesowania**, ale informacja może płynąć w obu kierunkach
+
+---
 
 ## 6. FUNKCJONALNE SYSTEMY MÓZGU
 
@@ -261,12 +294,12 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 
 ### 4 główne systemy funkcjonalne
 
-| System | Funkcja |
-|--------|---------|
-| **Systemy sensoryczne i sieci wagowe** | Przetwarzanie wejść sensorycznych |
-| **System emocjonalny** | Regulacja emocji |
-| **System wykonawczy** | Planowanie i wykonanie działań |
-| **System pamięci** | Przechowywanie i odtwarzanie informacji |
+| System                                 | Funkcja                                 |
+| -------------------------------------- | --------------------------------------- |
+| **Systemy sensoryczne i sieci wagowe** | Przetwarzanie wejść sensorycznych       |
+| **System emocjonalny**                 | Regulacja emocji                        |
+| **System wykonawczy**                  | Planowanie i wykonanie działań          |
+| **System pamięci**                     | Przechowywanie i odtwarzanie informacji |
 
 **Interakcje:** Systemy **wzajemnie wymieniają informacje** i współdziałają
 
@@ -278,12 +311,12 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 
 **4 główne neuroprzekaźniki modulujące systemy:**
 
-| System | Główny neuroprzekaźnik |
-|--------|------------------------|
-| Systemy sensoryczne i sieci wagowe | **Noradrenalina** |
-| System emocjonalny | **Serotonina** |
-| System pamięci i uczenia się | **Acetylocholina** |
-| System wykonawczy | **Dopamina** |
+| System                             | Główny neuroprzekaźnik |
+| ---------------------------------- | ---------------------- |
+| Systemy sensoryczne i sieci wagowe | **Noradrenalina**      |
+| System emocjonalny                 | **Serotonina**         |
+| System pamięci i uczenia się       | **Acetylocholina**     |
+| System wykonawczy                  | **Dopamina**           |
 
 ---
 
@@ -296,9 +329,12 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 - **Pamięć** → **system pamięci**
 - **Wyjścia** (wyświetlacz, dźwięk) → **działania motoryczne**
 
+---
+
 ## 7. PLASTYCZNOŚĆ MÓZGU
 
 ### Definicja
+
 **Plastyczność mózgu** – zdolność mózgu do **reorganizacji strukturalnej i funkcjonalnej** w odpowiedzi na doświadczenia, uczenie się lub uszkodzenia
 
 ---
@@ -306,10 +342,12 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 ### Typy plastyczności
 
 #### A. Plastyczność zależna od doświadczenia
+
 - Zmiany w wyniku uczenia się
 - Nabywanie nowych umiejętności
 
 #### B. Plastyczność kompensacyjna
+
 - Zmiany po uszkodzeniu mózgu
 - Reorganizacja funkcji po urazach, udarach
 
@@ -322,6 +360,7 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 **Diaschiza** – wtórne zaburzenia w obszarach nieuszkodzonych, ale połączonych z obszarem uszkodzonym
 
 **Mechanizm:**
+
 - Obszar uszkodzony przestaje działać
 - Obszary z nim połączone działają nieprawidłowo (diaschiza)
 - Z czasem diaschiza **zanika**
@@ -334,10 +373,12 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 #### 2. Teoria zmasowanej akcji (equipotencjalność)
 
 **Założenie anty-lokalizacyjne:**
+
 - Dowolna część mózgu może obsługiwać dowolną funkcję
 - Większość funkcji ma reprezentację **rozproszoną** w korze
 
 **Mechanizm:**
+
 - Nieuszkodzone obszary **przejmują funkcję** obszaru uszkodzonego
 - Reorganizacja funkcjonalna
 
@@ -348,6 +389,7 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 **Założenie:** Istnieją **reduplikowane struktury** obsługujące te same funkcje
 
 **Mechanizm:**
+
 - Funkcja może być pełniona zamiennie przez 2+ różne struktury
 - Przy uszkodzeniu jednej → druga przejmuje funkcję
 
@@ -356,6 +398,7 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 #### 4. Teoria zastępczych funkcji
 
 **Mechanizm:**
+
 - Obszar **poprzednio nie zaangażowany** w funkcję
 - Po uszkodzeniu reorganizuje się
 - Zaczyna pełnić daną funkcję
@@ -365,10 +408,12 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 #### 5. Substytucja
 
 **Mechanizm:**
+
 - Zachowanie realizowane przez **inny mechanizm**
 - Używa **innych obszarów mózgu**
 
 **Przykład:**
+
 - Proces płynny → teraz wymaga poprzedzenia bodźcami
 - Pacjent rytmicznie stuka przed wykonaniem czynności
 - Połączenie z rytmicznością → łatwiejsze wykonanie
@@ -379,9 +424,11 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 #### 6. Przejęcie funkcji (lateralizowane)
 
 **Mechanizm:**
+
 - Funkcje lateralizowane mogą być przejęte przez **przeciwległą półkulę**
 
 **Przykład:**
+
 - Uszkodzenie ośrodków mowy (zazwyczaj lewa półkula)
 - U pacjentów z mniej zlokalizowanymi funkcjami
 - Mowa może być realizowana przez **ośrodki prawopółkulowe**
@@ -395,6 +442,7 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 **Definicja:** Niedokrwienna strefa otaczająca świeże ognisko udaru
 
 **Znaczenie:**
+
 - Obszar podatny na zmiany
 - Część objawów może **ustępować krótkoterminowo** (po ustąpieniu niedokrwienia)
 - Część objawów może **pojawiać się następczo** (zmiany w penumbrze)
@@ -405,11 +453,14 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 #### Ujawnianie się nowych zdolności
 
 **Przykład:** 60-letnia pacjentka po udarze mózgu
+
 - Przed udarem: Zawodowa **muzyczka**, rozbudowane umiejętności muzyczne
 - Po udarze i rehabilitacji: Pojawiły się **nowo nabyte umiejętności malarskie**
 - Wcześniej nie przejawiała takich zdolności
 
 **Wniosek:** Reorganizacja sieci nerwowych może prowadzić nie tylko do utraty/odbudowy funkcji, ale też do **pojawienia się nowych funkcji**
+
+---
 
 ## 8. BEHAWIORALNE MECHANIZMY PLASTYCZNOŚCI
 
@@ -420,6 +471,7 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 **Mechanizm:** Powrót utraconych funkcji za pomocą **tego samego systemu funkcjonalnego**
 
 **Proces:**
+
 - Obszar uszkodzony w obrębie systemu funkcjonalnego
 - Zmiany plastyczne i rehabilitacja
 - Przywrócenie pierwotnych funkcji
@@ -431,9 +483,12 @@ Realizacja wzoru działania (drugorzędowe i pierwszorzędowe pola ruchowe)
 #### 2. Inne podejścia
 
 Uwzględniają nie tylko zależność od określonej funkcji, ale również:
+
 - Kompensację przez inne systemy
 - Substytucję mechanizmów
 - Reorganizację szerszych sieci
+
+---
 
 ## 9. PLASTYCZNOŚĆ W ROZWOJU OSOBNICZYM
 
@@ -444,6 +499,7 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 **Wiek:** Do ~3-4 roku życia
 
 **Charakterystyka:**
+
 - Człowiek **tworzy model świata**
 - Kontrola podstawowych działań
 - Głównie: Funkcje **zmysłowe** i **ruchowe**
@@ -455,11 +511,13 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 **Wiek:** Wczesne dzieciństwo (do ~8-10 roku życia, może dłużej)
 
 **Charakterystyka:**
+
 - Czynności życia codziennego
 - Czynności powtarzalne, precyzyjne
 - **Motoryka mała**, precyzja
 
 **Kluczowe:** Wielokrotne powtarzanie czynności
+
 - Tworzenie stabilnych schematów
 - **Okresy krytyczne** ekspozycji na bodźce:
   - Mowa
@@ -468,6 +526,7 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 - Wielokrotna prezentacja → ogólna sprawność życiowa
 
 **Interakcje społeczne:** Trwają, dopóki jesteśmy w szkole, dużych grupach
+
 - Uczenie się wzorców zachowań
 - Funkcjonowanie w grupie
 
@@ -478,6 +537,7 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 **Wiek:** Od ~5 roku życia (teoria umysłu) aż do śmierci
 
 **Charakterystyka:**
+
 - Tworzenie **siebie** i **własnego modelu umysłu**
 - Rozwijanie "ja" wewnętrznego
 - Ciągła **aktualizacja pamięci**
@@ -485,6 +545,8 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 - Tworzenie uśrednionego obrazu siebie
 
 **Proces:** Trwa przez całe życie
+
+---
 
 ## 10. KLUCZOWE INFORMACJE DO ZAPAMIĘTANIA
 
@@ -495,6 +557,7 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 **Przedmiot:** Związki struktur mózgu z czynnościami psychicznymi
 
 **3 perspektywy czasowe:**
+
 - Teraźniejszość (stan w danej chwili)
 - Ontogeneza (rozwój jednostki)
 - Filogeneza (ewolucja gatunkowa)
@@ -504,12 +567,14 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 ### 🔑 Organizacja kory
 
 **2 podejścia:**
+
 - **Strukturalne** (Brodmann ~50 pól, cytoarchitektonika)
 - **Funkcjonalne** (5 grup według Mesulama)
 
 **Zgodność:** Podział strukturalny **częściowo pokrywa się** z funkcjonalnym
 
 **Budowa kory nowej:**
+
 - 6 warstw
 - Organizacja kolumnowa
 - Hipoteza jednostek promienistych (Rakić)
@@ -519,16 +584,19 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 ### 🔑 Modele funkcjonalne
 
 **Model Łurii (hierarchiczny):**
+
 - Blok energetyczny (tonus kory)
 - Blok informacyjny (bodźce, ruch)
 - Blok planowania i kontroli (płat czołowy)
 
 **Model hierarchii rozproszonej:**
+
 - Połączenia obustronne (aferentne + eferentne)
 - Przepływ wielokierunkowy
 - Informacja zwrotna
 
 **4 systemy funkcjonalne:**
+
 - Sensoryczne (noradrenalina)
 - Emocjonalny (serotonina)
 - Pamięci (acetylocholina)
@@ -539,10 +607,12 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 ### 🔑 Plastyczność mózgu
 
 **Typy:**
+
 - Zależna od doświadczenia
 - Kompensacyjna (po uszkodzeniu)
 
 **Mechanizmy reorganizacji:**
+
 1. Ustępowanie diaschizy
 2. Zmasowana akcja (equipotencjalność)
 3. Redundancja
@@ -568,28 +638,30 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 
 ### 📊 Liczby do zapamiętania
 
-| Parametr | Wartość |
-|----------|---------|
-| Pola Brodmana | ~50 (47-52) |
-| Grupy funkcjonalne kory (Mesulam) | 5 |
-| Warstwy kory nowej | 6 |
-| Bloki funkcjonalne (Łuria) | 3 |
-| Systemy funkcjonalne mózgu | 4 |
-| Pierwotne pęcherzyki mózgowe | 3 |
-| Wtórne pęcherzyki mózgowe | 5 |
-| Okresy plastyczności | 3 |
-| Główne neuroprzekaźniki modulujące | 4 |
+| Parametr                           | Wartość     |
+| ---------------------------------- | ----------- |
+| Pola Brodmana                      | ~50 (47-52) |
+| Grupy funkcjonalne kory (Mesulam)  | 5           |
+| Warstwy kory nowej                 | 6           |
+| Bloki funkcjonalne (Łuria)         | 3           |
+| Systemy funkcjonalne mózgu         | 4           |
+| Pierwotne pęcherzyki mózgowe       | 3           |
+| Wtórne pęcherzyki mózgowe          | 5           |
+| Okresy plastyczności               | 3           |
+| Główne neuroprzekaźniki modulujące | 4           |
 
 ---
 
 ### ✅ CO NALEŻY DOBRZE ZNAĆ
 
 **Definicje:**
+
 - Neuropsychologia (medycyna + psychologia)
 - Neuropsychologia kliniczna
 - 3 perspektywy czasowe (teraźniejszość, ontogeneza, filogeneza)
 
 **Organizacja kory:**
+
 - 2 podejścia (strukturalne vs funkcjonalne)
 - Pola Brodmana (cytoarchitektonika, ~50 pól)
 - 5 grup funkcjonalnych (Mesulam)
@@ -598,15 +670,18 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 - Migracja neuronów (klej promienisty, warstwy VI→I)
 
 **Rozwój mózgu:**
+
 - Etapy embriogenezy (rynienka → cewa → pęcherzyki)
 - Procesy rozwojowe (neurulacja, neurogeneza, synaptogeneza, eliminacja, apoptoza, mielinizacja)
 
 **Modele funkcjonalne:**
+
 - Model Łurii (3 bloki)
 - Model hierarchii rozproszonej (połączenia obustronne)
 - 4 systemy funkcjonalne + neuromodulacja (4 neuroprzekaźniki)
 
 **Plastyczność:**
+
 - Definicja, 2 typy (doświadczenie, kompensacyjna)
 - 6 mechanizmów reorganizacji
 - Diaschiza, penumbra
@@ -617,5 +692,5 @@ Uwzględniają nie tylko zależność od określonej funkcji, ale również:
 
 **KONIEC PODSUMOWANIA WYKŁADU 1**
 
-*Opracowano na podstawie transkryptu wykładu z neuropsychologii*
-*Materiał zoptymalizowany pod egzamin – zwięzłe definicje, tabele, listy, kluczowe koncepcje*
+_Opracowano na podstawie transkryptu wykładu z neuropsychologii_
+_Materiał zoptymalizowany pod egzamin – zwięzłe definicje, tabele, listy, kluczowe koncepcje_

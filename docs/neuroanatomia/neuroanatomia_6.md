@@ -1,18 +1,23 @@
 ﻿# NEUROANATOMIA - WYKŁAD 6: MIĘDZYMÓZGOWIE, UNACZYNIENIE I DROGI PRZEWODZENIA
 
+### [Transkrypcja](transkrypcje/neuroanatomia_6_transkrypcja.md)
+
+---
+
 ## 1. MIĘDZYMÓZGOWIE (DIENCEPHALON) - OGÓLNIE
 
 ### Definicja
+
 **Międzymózgowie** – część mózgowia zawierająca **komorę III**
 
 ### Granice
 
-| Granica | Struktura |
-|---------|-----------|
-| **Przód** | Spoidło mózgu przednie |
-| **Tył** | Spoidło mózgu tylne |
-| **Od kresu mózgowia** | Prążki krańcowe (powierzchnia grzbietowa) |
-| **Od dołu** | Skrzyżowanie nerwów wzrokowych, pasmo wzrokowe |
+| Granica               | Struktura                                      |
+| --------------------- | ---------------------------------------------- |
+| **Przód**             | Spoidło mózgu przednie                         |
+| **Tył**               | Spoidło mózgu tylne                            |
+| **Od kresu mózgowia** | Prążki krańcowe (powierzchnia grzbietowa)      |
+| **Od dołu**           | Skrzyżowanie nerwów wzrokowych, pasmo wzrokowe |
 
 ---
 
@@ -37,6 +42,7 @@
 **Położenie:** Po obu stronach komory III
 
 **Budowa wewnętrzna:**
+
 - Skupiska istoty szarej (jądra)
 - Przedzielone istotą białą → **blaszki wzgórza**
 
@@ -44,14 +50,14 @@
 
 ### Struktury zewnętrzne
 
-| Struktura | Położenie | Opis |
-|-----------|-----------|------|
-| **Guzek przedni** | Przednia część wzgórza | Wypuklenie |
-| **Poduszka** | Tylna część wzgórza | Wypuklenie |
-| **Prążek rdzenny wzgórza** | Powierzchnia górna | Pasmo istoty białej |
-| **Taśma wzgórza** | Ostry brzeg prążka rdzennego | Miejsce przyczepu splotu naczyniówkowego |
-| **Prążek krańcowy** | Bocznie | Oddziela wzgórze od jądra ogoniastego |
-| **Blaszka przytwierdzająca** | Nad prążkiem krańcowym | Cienka istota biała pokrywająca powierzchnię grzbietową |
+| Struktura                    | Położenie                    | Opis                                                    |
+| ---------------------------- | ---------------------------- | ------------------------------------------------------- |
+| **Guzek przedni**            | Przednia część wzgórza       | Wypuklenie                                              |
+| **Poduszka**                 | Tylna część wzgórza          | Wypuklenie                                              |
+| **Prążek rdzenny wzgórza**   | Powierzchnia górna           | Pasmo istoty białej                                     |
+| **Taśma wzgórza**            | Ostry brzeg prążka rdzennego | Miejsce przyczepu splotu naczyniówkowego                |
+| **Prążek krańcowy**          | Bocznie                      | Oddziela wzgórze od jądra ogoniastego                   |
+| **Blaszka przytwierdzająca** | Nad prążkiem krańcowym       | Cienka istota biała pokrywająca powierzchnię grzbietową |
 
 **Komora III:** Boczne ograniczenia = oba wzgórza
 
@@ -60,6 +66,7 @@
 ### Unaczynienie wzgórza
 
 **Źródła:**
+
 - **Tętnica łącząca tylna**
 - **Tętnica tylna mózgu** (i jej gałęzie):
   - Tętnica naczyniówkowa tylna
@@ -108,12 +115,15 @@
 #### 5. Jądra części brzusznej
 
 **Jądra przednie:**
+
 - Połączenia: Kora przedczołowa
 
 **Jądra pośrednie:**
+
 - Połączenia: Kora ruchowa i przedruchowa
 
 **Jądra tylne:**
+
 - Kończą się włókna dróg czucia powierzchownego (ból, temperatura)
 
 ---
@@ -123,12 +133,14 @@
 **A. Jądro brzuszne tylno-boczne (VPL - ventral posterolateral)**
 
 **Otrzymuje informacje:**
+
 - Drogi rdzeniowo-wzgórzowe
 - Wstęga przyśrodkowa
 
 **Wysyła połączenia:** Kora czuciowa
 
 **Uszkodzenie:**
+
 - Zniesienie czucia bólu i temperatury (przeciwstronne)
 - Zniesienie czucia różnicowania dotyku
 - Obszar: Kończyny i tułów
@@ -140,6 +152,7 @@
 **Otrzymuje informacje:** Droga trójdzielno-wzgórzowa
 
 **Uszkodzenie:**
+
 - Zniesienie czucia w obrębie **głowy**
 - Ból, temperatura, różnicowanie dotyku
 - Może prowadzić do całkowitego zniesienia czucia **smaku**
@@ -177,6 +190,7 @@
 ### Lokalizacja
 
 **Granice:**
+
 - **Przód:** Skrzyżowanie nerwów wzrokowych
 - **Tył:** Ciała suteczkowate
 
@@ -223,6 +237,7 @@
 #### 1. Ciała suteczkowate (corpora mamillaria)
 
 **Charakterystyka:**
+
 - 2 małe okrągłe struktury
 - Położone od przodu i od dołu względem dołu międzykonarowego
 - Oddzielone od siebie **bruzdą**
@@ -232,10 +247,12 @@
 #### 2. Guz popielaty (tuber cinereum)
 
 **Położenie:**
+
 - Od przodu od ciał suteczkowatych
 - Od przodu: Skrzyżowanie nerwów wzrokowych → przedłuża się w pasma wzrokowe
 
 **Struktura dodatkowa:**
+
 - Zwija się ku dołowi, tworząc **lejek**
 - Na lejku zawieszona: **Przysadka**
 
@@ -253,16 +270,17 @@
 
 ##### 2 płaty przysadki
 
-| Płat | Nazwa alternatywna | Charakterystyka |
-|------|-------------------|-----------------|
-| **Płat przedni** | Gruczołowy | - |
-| **Płat tylny** | Nerwowy | Łączy się bezpośrednio z podwzgórzem |
+| Płat             | Nazwa alternatywna | Charakterystyka                      |
+| ---------------- | ------------------ | ------------------------------------ |
+| **Płat przedni** | Gruczołowy         | -                                    |
+| **Płat tylny**   | Nerwowy            | Łączy się bezpośrednio z podwzgórzem |
 
 ---
 
 ## 4. ZAWZGÓRZE (METATHALAMUS)
 
 ### Składniki
+
 - **Ciała kolankowate boczne** (lateralne)
 - **Ciała kolankowate przyśrodkowe** (medialne)
 
@@ -273,6 +291,7 @@
 ## 5. NADWZGÓRZE (EPITHALAMUS)
 
 ### Definicja
+
 **Narządy szyszynkowe** – tworzą sklepienie komory III
 
 ### Składniki
@@ -336,6 +355,7 @@
 ### Część tylna (tylny dół czaszki)
 
 **Rdzeń przedłużony:**
+
 - Dalszy ciąg rdzenia kręgowego
 - Rozszerza się stożkowato ku górze
 - 2 wyniosłości parzyste:
@@ -343,12 +363,14 @@
   - **Oliwka** (boczna)
 
 **Most:**
+
 - Szerokie poprzeczne uwypuklenie powyżej rdzenia przedłużonego
 - Wyraźnie ograniczony od dołu i góry
 - Zwęża się z boków → przechodzi w **konar środkowy móżdżku**
 - **Bruzda podstawna** (w płaszczyźnie pośrodkowej) ograniczona wyniosłościami piramidowymi
 
 **Móżdżek:**
+
 - Z boku rdzenia przedłużonego i mostu
 - Część środkowa: **Robak**
 - 2 większe półkule
@@ -360,20 +382,24 @@
 ### Część środkowa (środkowy dół czaszki)
 
 **Odnogi mózgu:**
+
 - Bezpośrednio nad górną krawędzią mostu
 - Stanowią podstawę konarów mózgu
 
 **Dół międzykonarowy:**
+
 - Między odnogami mózgu
 - Wysłany blaszką z otworkami (naczynia krwionośne)
 - **Istota dziurkowana tylna**
 - Ograniczony od przodu: **Ciała suteczkowate**
 
 **Guz popielaty:**
+
 - Przed ciałami suteczkowatymi
 - Odchodzi od niego **lejek** → na dolnym końcu **przysadka**
 
 **Skrzyżowanie wzrokowe:**
+
 - Przed guzem popielatym
 - Blaszka istoty białej
 - Z boków wychodzą ku przodowi: **nerwy wzrokowe**
@@ -386,10 +412,12 @@
 ### Część przednia (przedni dół czaszki)
 
 **Płaty czołowe:**
+
 - Prawy i lewy
 - Przedzielone **szczeliną podłużną mózgu**
 
 **Z boku od szczeliny:**
+
 - **Pasma węchowe** (rozszerzają się ku tyłowi)
 - **Opuszka węchowa** (rozszerzenie pasma)
 - **Trójkąt węchowy** (przechodzenie pasma)
@@ -409,33 +437,35 @@
 
 ### Szczegóły miejsca wyjścia
 
-| Nerw | Numer | Miejsce wyjścia |
-|------|-------|-----------------|
-| **Nerw węchowy** (olfactorius) | I | Wchodzi do opuszki węchowej w postaci cienkich nici |
-| **Nerw krańcowy** | 0 (Terminal) | Biegnie z nerwem węchowym, ale NIE łączy się z opuszką; podąża ku tyłowi, wnika przyśrodkowo od trójkąta węchowego |
-| **Nerw wzrokowy** (opticus) | II | Koniec mózgowy w skrzyżowaniu wzrokowym; ku tyłowi przechodzi w pasma wzrokowe |
-| **Nerw okoruchowy** (oculomotorius) | III | Dół międzykonarowy |
-| **Nerw bloczkowy** (trochlearis) | IV | ⚠️ **Jedyny!** Wychodzi po stronie grzbietowej (poniżej wzgórków dolnych blaszki pokrywy); zawija wokół konarów mózgu → powierzchnia podstawna |
-| **Nerw trójdzielny** (trigeminus) | V | Granica mostu i konara środkowego móżdżku |
-| **Nerw odwodzący** (abducens) | VI | Nad piramidą, granica mostu i rdzenia przedłużonego |
-| **Nerw twarzowy** (facialis) | VII | Pogranicze mostu, rdzenia przedłużonego i konara środkowego móżdżku |
-| **Nerw przedsionkowo-ślimakowy** (vestibulocochlearis) | VIII | Bocznie od nerwu VII, między konarami środkowym i dolnym móżdżku |
-| **Nerw pośredni** (intermedius) | - | **Ciekawostka:** Cienki nerw między VII a VIII; w dalszym przebiegu łączy się z n. twarzowym |
-| **Nerw językowo-gardłowy** (glossopharyngeus) | IX | Rdzeń przedłużony, bocznie od oliwki, **bruzda boczna tylna** |
-| **Nerw błędny** (vagus) | X | Rdzeń przedłużony, bocznie od oliwki, **bruzda boczna tylna** |
-| **Nerw dodatkowy** (accessorius) | XI | Rdzeń przedłużony, bocznie od oliwki, **bruzda boczna tylna**; składa się z korzeni czaszkowych (rdzeń przedłużony) + korzeni rdzeniowych (część szyjna rdzenia kręgowego) |
-| **Nerw podjęzykowy** (hypoglossus) | XII | Rdzeń przedłużony, **bruzda boczna przednia** (między piramidą a oliwką); 2-3 wiązki nici korzeniowych → wspólny pień |
+| Nerw                                                   | Numer        | Miejsce wyjścia                                                                                                                                                            |
+| ------------------------------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nerw węchowy** (olfactorius)                         | I            | Wchodzi do opuszki węchowej w postaci cienkich nici                                                                                                                        |
+| **Nerw krańcowy**                                      | 0 (Terminal) | Biegnie z nerwem węchowym, ale NIE łączy się z opuszką; podąża ku tyłowi, wnika przyśrodkowo od trójkąta węchowego                                                         |
+| **Nerw wzrokowy** (opticus)                            | II           | Koniec mózgowy w skrzyżowaniu wzrokowym; ku tyłowi przechodzi w pasma wzrokowe                                                                                             |
+| **Nerw okoruchowy** (oculomotorius)                    | III          | Dół międzykonarowy                                                                                                                                                         |
+| **Nerw bloczkowy** (trochlearis)                       | IV           | ⚠️ **Jedyny!** Wychodzi po stronie grzbietowej (poniżej wzgórków dolnych blaszki pokrywy); zawija wokół konarów mózgu → powierzchnia podstawna                             |
+| **Nerw trójdzielny** (trigeminus)                      | V            | Granica mostu i konara środkowego móżdżku                                                                                                                                  |
+| **Nerw odwodzący** (abducens)                          | VI           | Nad piramidą, granica mostu i rdzenia przedłużonego                                                                                                                        |
+| **Nerw twarzowy** (facialis)                           | VII          | Pogranicze mostu, rdzenia przedłużonego i konara środkowego móżdżku                                                                                                        |
+| **Nerw przedsionkowo-ślimakowy** (vestibulocochlearis) | VIII         | Bocznie od nerwu VII, między konarami środkowym i dolnym móżdżku                                                                                                           |
+| **Nerw pośredni** (intermedius)                        | -            | **Ciekawostka:** Cienki nerw między VII a VIII; w dalszym przebiegu łączy się z n. twarzowym                                                                               |
+| **Nerw językowo-gardłowy** (glossopharyngeus)          | IX           | Rdzeń przedłużony, bocznie od oliwki, **bruzda boczna tylna**                                                                                                              |
+| **Nerw błędny** (vagus)                                | X            | Rdzeń przedłużony, bocznie od oliwki, **bruzda boczna tylna**                                                                                                              |
+| **Nerw dodatkowy** (accessorius)                       | XI           | Rdzeń przedłużony, bocznie od oliwki, **bruzda boczna tylna**; składa się z korzeni czaszkowych (rdzeń przedłużony) + korzeni rdzeniowych (część szyjna rdzenia kręgowego) |
+| **Nerw podjęzykowy** (hypoglossus)                     | XII          | Rdzeń przedłużony, **bruzda boczna przednia** (między piramidą a oliwką); 2-3 wiązki nici korzeniowych → wspólny pień                                                      |
 
 ---
 
 #### Nerw dodatkowy - szczegóły
 
 **Korzenie czaszkowe:**
+
 - Z rdzenia przedłużonego
 - Krótki wspólny przebieg
 - Oddzielają się → **gałąź wewnętrzna** → wchodzą do n. błędnego
 
 **Korzenie rdzeniowe:**
+
 - Z części szyjnej rdzenia kręgowego
 - Biegną samodzielnie → **gałąź zewnętrzna** n. dodatkowego
 
@@ -444,6 +474,7 @@
 ## 9. KOŁO TĘTNICZE MÓZGU (CIRCULUS ARTERIOSUS CEREBRI / KOŁO WILLISA)
 
 ### Definicja
+
 Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 
 ---
@@ -455,6 +486,7 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 **Pochodzenie:** Tętnica szyjna wspólna
 
 **Przebieg:**
+
 - Wchodzi do czaszki przez kanał szyjny (kość skroniowa)
 - Przed przysadką oddaje **tętnicę oczną**
 - Dzieli się na tętnice końcowe
@@ -466,6 +498,7 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 **Pochodzenie:** Tętnica podobojczykowa
 
 **Przebieg:**
+
 - Wchodzi przez kanał w otworach wyrostków poprzecznych kręgosłupa
 - Wchodzi do czaszki przez **otwór wielki potyliczny** (kość potyliczna)
 - **Zespalają się** obie tętnice kręgowe → **tętnica podstawna**
@@ -476,14 +509,14 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 
 **Koło tętnicze = anastomoza tętnic:**
 
-| Tętnica | Strona | Połączenie |
-|---------|--------|------------|
-| **Tętnica przednia mózgu** | Prawa i lewa | Połączone **tętnicą łączącą przednią** |
-| **Tętnica łącząca przednia** | 1 (nieparzysta) | Łączy obie tętnice przednie mózgu |
-| **Tętnica środkowa mózgu** | Prawa i lewa | Największe gałęzie t. szyjnej wewnętrznej |
-| **Tętnica łącząca tylna** | Prawa i lewa | Łączy t. szyjną wewnętrzną z t. tylną mózgu |
-| **Tętnica tylna mózgu** | Prawa i lewa | Z tętnicy podstawnej |
-| **Tętnica podstawna** | 1 (nieparzysta) | Powstaje z zespolenia 2 tętnic kręgowych |
+| Tętnica                      | Strona          | Połączenie                                  |
+| ---------------------------- | --------------- | ------------------------------------------- |
+| **Tętnica przednia mózgu**   | Prawa i lewa    | Połączone **tętnicą łączącą przednią**      |
+| **Tętnica łącząca przednia** | 1 (nieparzysta) | Łączy obie tętnice przednie mózgu           |
+| **Tętnica środkowa mózgu**   | Prawa i lewa    | Największe gałęzie t. szyjnej wewnętrznej   |
+| **Tętnica łącząca tylna**    | Prawa i lewa    | Łączy t. szyjną wewnętrzną z t. tylną mózgu |
+| **Tętnica tylna mózgu**      | Prawa i lewa    | Z tętnicy podstawnej                        |
+| **Tętnica podstawna**        | 1 (nieparzysta) | Powstaje z zespolenia 2 tętnic kręgowych    |
 
 ---
 
@@ -500,6 +533,7 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 **Powstaje z:** Połączenia 2 żył wewnętrznych mózgu
 
 **Żyły wewnętrzne mózgu:**
+
 - Rozpoczynają się: Okolica otworu międzykomorowego
 - Powstają z połączenia:
   - Żyła przegrody przeźroczystej
@@ -507,6 +541,7 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
   - Żyła naczyniówki
 
 **Pień żyły wielkiej mózgu:**
+
 - Króciutki
 - Lokalizacja: Między płatem ciała modzelowatego a szyszynką (od dołu)
 - Uchodzi do: **Zatoka prosta**
@@ -516,6 +551,7 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 #### 2. Układ powierzchowny
 
 **Składniki:**
+
 - Żyły górne mózgu
 - Żyły dolne mózgu
 - Żyły zespalające
@@ -534,6 +570,7 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 ⚠️ **Mózgowie NIE posiada unaczynienia chłonnego**
 
 **Brak:**
+
 - Obiegu limfy
 - Naczyń limfatycznych
 
@@ -548,7 +585,7 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 ✅ **Droga słuchowa**  
 ✅ **Droga węchowa**  
 ✅ **Droga smakowa**  
-✅ **Drogi czucia powierzchownego i głębokiego** (somatosensoryczne)  
+✅ **Drogi czucia powierzchownego i głębokiego** (somatosensoryczne)
 
 **Inne drogi w rdzeniu:** Trzeba wiedzieć, że istnieją, ale bez szczegółów
 
@@ -557,16 +594,17 @@ Zespół naczyń krwionośnych zaopatrujących mózgowie w krew tętniczą
 ## 12. DROGA PIRAMIDOWA (UKŁAD PIRAMIDOWY)
 
 ### Definicja
+
 Część układu nerwowego kontrolująca **ruchy dowolne** i **postawę ciała**
 
 ---
 
 ### 2 drogi układu piramidowego
 
-| Droga | Unerwianie |
-|-------|------------|
-| **Droga korowo-jądrowa** | Mięśnie twarzoczaszki, szyi, część mięśnia mostkowo-obojczykowo-suteczkowatego |
-| **Droga korowo-rdzeniowa** | Reszta mięśni organizmu |
+| Droga                      | Unerwianie                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| **Droga korowo-jądrowa**   | Mięśnie twarzoczaszki, szyi, część mięśnia mostkowo-obojczykowo-suteczkowatego |
+| **Droga korowo-rdzeniowa** | Reszta mięśni organizmu                                                        |
 
 ---
 
@@ -577,10 +615,12 @@ Część układu nerwowego kontrolująca **ruchy dowolne** i **postawę ciała**
 **Komórka:** Duża komórka kształtu piramidowego
 
 **Nazwy:**
+
 - **Komórka Betza**
 - **Komórka olbrzymia**
 
 **Lokalizacja:**
+
 - Głównie: **Pole 4** (kora ruchowa)
 - Częściowo: **Pole 6**
 - Warstwa V kory mózgu
@@ -593,6 +633,7 @@ Część układu nerwowego kontrolująca **ruchy dowolne** i **postawę ciała**
 #### 2. Neuron obwodowy (dolny motoneuron)
 
 **Lokalizacja:**
+
 - Róg przedni rdzenia kręgowego, LUB
 - Jądro ruchowe nerwów czaszkowych
 
@@ -603,9 +644,11 @@ Część układu nerwowego kontrolująca **ruchy dowolne** i **postawę ciała**
 ### Połączenia neuronów piramidalnych
 
 **Neurony pośredniczące:**
+
 - Warstwa IV kory zakrętu przedśrodkowego
 
 **Neurony innych pól:**
+
 - Inne pola kory mózgu
 - Ośrodki podkorowe
 
@@ -638,6 +681,7 @@ Dolny motoneuron → mięsień
 ```
 
 **Włókna nieskrzyżowane (~20%):**
+
 - Biegną jako **droga korowo-rdzeniowa przednia** (w sznurze przednim)
 - Dopiero w rdzeniu kręgowym przecinają na stronę przeciwną przed synapsą
 
@@ -688,6 +732,7 @@ Dolny motoneuron → mięsień
 #### Połowa włókien krzyżuje się w skrzyżowaniu wzrokowym
 
 **Skrzyżowanie wzrokowe:**
+
 - Włókna z połowy przyśrodkowej siatkówki → przecinają na stronę przeciwną
 - Włókna z połowy bocznej siatkówki → NIE krzyżują się
 
@@ -708,6 +753,7 @@ Dolny motoneuron → mięsień
 #### Neuron 4: Kora wzrokowa
 
 **Lokalizacja:**
+
 - Pierwotna kora wzrokowa: **Pole 17** (klin i zakręt językowy)
 - Drugorzędowa kora wzrokowa: **Pola 18 i 19**
 
@@ -742,6 +788,7 @@ Dolny motoneuron → mięsień
 **Jądra:** Przednie i tylne
 
 **Aksony:**
+
 - Część krzyżuje się → druga strona
 - Część pozostaje po tej samej stronie
 - Synapse w: jądra oliwki górnej, jądra wstęgi bocznej
@@ -751,6 +798,7 @@ Dolny motoneuron → mięsień
 #### Neuron 3: Wzgórek dolny
 
 **Przebieg włókien:**
+
 - Wstęga boczna
 - Przechodzi przez most i śródmózgowie
 - Dociera do **wzgórka dolnego** (blaszka pokrywa)
@@ -758,6 +806,7 @@ Dolny motoneuron → mięsień
 **Dalej:** Włókna przez ramię wzgórka dolnego → ciało kolankowate przyśrodkowe (wzgórze)
 
 **Składowe neuronu 3:**
+
 - Jądro oliwki górnej
 - Jądra wstęgi bocznej
 - Wzgórek dolny
@@ -775,14 +824,17 @@ Dolny motoneuron → mięsień
 **Cel:** Warstwa IV **pierwotnego ośrodka słuchu**
 
 **Pierwotny ośrodek słuchu:**
+
 - **Pola 41 i 42** (Brodmann)
 - Zakręty poprzeczne w tylno-górnej części zakrętu skroniowego górnego
 
 **Rzutowanie tonotopowe:**
+
 - Szczyt ślimaka → tylna część
 - Podstawa ślimaka → przednia część
 
 **Drugorzędowy ośrodek słuchu:**
+
 - Dolna część zakrętu skroniowego
 - Rzutowanie tonotopowe odwrotne do pierwotnego
 
@@ -829,15 +881,18 @@ Dolny motoneuron → mięsień
 ### Zakończenia włókien
 
 **Część włókien kończy się w:**
+
 - Jądra węchowe przednie pasma węchowego
 - **Trójkąt węchowy**
 
 **Niektóre włókna podążają do:**
+
 - Istota dziurkowana przednia
 - Prążek węchowy przyśrodkowy
 - Przez spoidło przednie → przeciwstronne pasmo węchowe
 
 **Większość włókien:**
+
 - Przez **prążek węchowy boczny**
 - Bezpośrednio do **pierwotnej kory węchowej**
 
@@ -846,6 +901,7 @@ Dolny motoneuron → mięsień
 ### Pierwotna kora węchowa
 
 **Lokalizacja:**
+
 - Zakręt haka (uncus)
 - Zakręt hipokampa
 - Zakręt półksiężycowaty
@@ -854,6 +910,7 @@ Dolny motoneuron → mięsień
 - Kora przymigdałowa
 
 **Połączenia pierwotnej kory węchowej:**
+
 - Wzgórze
 - Podwzgórze
 - Inne elementy zespołu hipokampa (przez korę śródwęchową)
@@ -878,12 +935,14 @@ Dolny motoneuron → mięsień
 **Lokalizacja:** Zakończenia czuciowe w **kubkach smakowych**
 
 **Kubki smakowe znajdują się w:**
+
 - Język (najbardziej liczne: brodawki okolone, listkowate, grzybowate)
 - Błona śluzowa podniebienia
 - Gardło
 - Śluzówka krtani (częściowo)
 
 **Wypustki obwodowe:** Z komórek w zwojach:
+
 - Nerw twarzowy (VII)
 - Nerw językowo-gardłowy (IX)
 - Nerw błędny (X)
@@ -897,10 +956,12 @@ Dolny motoneuron → mięsień
 **Komórki:** Jądro samotne
 
 **Włókna wychodzące:**
+
 - Przez rdzeń przedłużony, most, śródmózgowie
 - Do przeciwległego **wzgórza**
 
 **Dodatkowo:**
+
 - Liczne włókna do **podwzgórza**
 - Przekazywanie impulsów do ośrodków wegetatywnych podwzgórza
 - Układu limbicznego
@@ -914,6 +975,7 @@ Dolny motoneuron → mięsień
 **Aksony:** Droga wzgórzowo-korowa
 
 **Zakończenie (prawdopodobne):**
+
 - Dolna część zakrętu zaśrodkowego
 - Wieczko czołowo-ciemieniowe
 
@@ -922,6 +984,7 @@ Dolny motoneuron → mięsień
 ## 17. DROGI CZUCIA POWIERZCHOWNEGO I GŁĘBOKIEGO (SOMATOSENSORYCZNE)
 
 ### Definicja
+
 Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narządach ruchu** do kory mózgu
 
 ---
@@ -929,6 +992,7 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 ### Charakterystyka
 
 **Neurony:** Co najmniej 3
+
 - **Neuron 1:** Poza OUN (obwodowy)
 - **Neurony 2 i 3:** W obrębie OUN
 
@@ -943,6 +1007,7 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 ⚠️ **Schematy 3 kolejnych neuronów = uproszczenie**
 
 **W rzeczywistości:**
+
 - Drogi bardziej złożone
 - Ogromna liczba połączeń synaptycznych
 - Liczne sprzężenia zwrotne
@@ -967,6 +1032,7 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 **Definicja:** Część mózgowia zawierająca **komorę III**
 
 **5 składników:**
+
 1. Wzgórze
 2. Podwzgórze
 3. Zawzgórze (ciała kolankowate)
@@ -980,11 +1046,13 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 **Kształt:** Jajowaty, parzysty
 
 **Struktury:**
+
 - Guzek przedni, poduszka
 - Prążek rdzenny, taśma wzgórza
 - Blaszki wzgórza (istota biała)
 
 **Jądra - 5 grup:**
+
 1. Przednie (układ limbiczny)
 2. Przyśrodkowe (limbiczny + pozapiramidowy)
 3. Śródblaskowe (z tworu siatkowatego)
@@ -992,9 +1060,10 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 5. Części brzusznej (VPL, VPM)
 
 **VPL:** Czucie bólu/temperatury z kończyn i tułowia  
-**VPM:** Czucie z głowy; może → zniesienie smaku  
+**VPM:** Czucie z głowy; może → zniesienie smaku
 
 **Ciała kolankowate:**
+
 - Boczne: droga wzrokowa
 - Przyśrodkowe: droga słuchowa
 
@@ -1007,6 +1076,7 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 **Jądra - 4 części:** Przednia, środkowa (guzowa), boczna, tylna (suteczkowata)
 
 **Struktury:**
+
 - **Ciała suteczkowate** (2 okrągłe)
 - **Guz popielaty** → **lejek** → **przysadka**
 - **Skrzyżowanie wzrokowe**
@@ -1018,6 +1088,7 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 **12 par** (❗ Tylko n. IV wychodzi od tyłu!)
 
 **Charakterystyczne:**
+
 - I: Opuszka węchowa (cienkie nici)
 - II: Skrzyżowanie wzrokowe (nie jest prawdziwym nerwem obwodowym!)
 - III: Dół międzykonarowy
@@ -1033,10 +1104,12 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 ### 🔑 Koło tętnicze mózgu
 
 **Główne tętnice doprowadzające:**
+
 - Tętnica szyjna wewnętrzna (×2)
 - Tętnica kręgowa (×2) → **tętnica podstawna**
 
 **Koło składa się z:**
+
 - T. przednia mózgu (×2) + t. łącząca przednia
 - T. środkowa mózgu (×2)
 - T. łącząca tylna (×2)
@@ -1048,6 +1121,7 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 ### 🔑 Odpływ żylny
 
 **2 układy:**
+
 - **Głęboki:** Żyła wielka mózgu (Galena) → zatoka prosta
 - **Powierzchowny:** Żyły górne, dolne, zespalające, podstawna
 
@@ -1060,6 +1134,7 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 ### 🔑 Drogi przewodzenia
 
 **Szczegółowo:**
+
 1. **Piramidowa** (korowo-rdzeniowa + korowo-jądrowa)
 2. **Wzrokowa** (4 neurony; krzyżowanie w skrzyżowaniu)
 3. **Słuchowa** (4 neurony; obustronne słyszenie)
@@ -1068,19 +1143,23 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 6. **Somatosensoryczna** (czucie powierzchowne i głębokie)
 
 **Droga piramidowa:**
+
 - Komórka Betza (pole 4, 6)
 - 80% krzyżuje się w piramidach → droga boczna
 - 20% nieskrzyżowane → droga przednia (krzyżuje się w rdzeniu)
 
 **Droga wzrokowa:**
+
 - Pole 17 (klin, zakręt językowy)
 - Rzutowanie retinotopowe
 
 **Droga słuchowa:**
+
 - Pola 41, 42
 - Rzutowanie tonotopowe
 
 **Droga węchowa:**
+
 - Bez wzgórza!
 - Pierwotna kora: hak, hipokamp, półksiężycowaty
 
@@ -1088,27 +1167,28 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 
 ### 📊 Liczby do zapamiętania
 
-| Parametr | Wartość |
-|----------|---------|
-| Składniki międzymózgowia | 5 |
-| Ciała suteczkowate | 2 |
-| Płaty przysadki | 2 (przedni, tylny) |
-| Nerwy czaszkowe | 12 par |
-| Nerw wychodzący od tyłu | IV (bloczkowy) |
-| Komórki piramidalne (pole 4) | 30 000 - 34 000 |
-| Neurony drogi wzrokowej | 4 |
-| Neurony drogi słuchowej | 4 |
-| Neurony drogi węchowej | 2 (!) |
-| Neurony drogi smakowej | 3 |
-| Neurony dróg somatosensorycznych | ≥3 |
-| Włókna krzyżujące się w piramidach | ~80% |
-| Włókna drogi przedniej | ~20% |
+| Parametr                           | Wartość            |
+| ---------------------------------- | ------------------ |
+| Składniki międzymózgowia           | 5                  |
+| Ciała suteczkowate                 | 2                  |
+| Płaty przysadki                    | 2 (przedni, tylny) |
+| Nerwy czaszkowe                    | 12 par             |
+| Nerw wychodzący od tyłu            | IV (bloczkowy)     |
+| Komórki piramidalne (pole 4)       | 30 000 - 34 000    |
+| Neurony drogi wzrokowej            | 4                  |
+| Neurony drogi słuchowej            | 4                  |
+| Neurony drogi węchowej             | 2 (!)              |
+| Neurony drogi smakowej             | 3                  |
+| Neurony dróg somatosensorycznych   | ≥3                 |
+| Włókna krzyżujące się w piramidach | ~80%               |
+| Włókna drogi przedniej             | ~20%               |
 
 ---
 
 ### ✅ CO NALEŻY DOBRZE ZNAĆ
 
 **Międzymózgowie:**
+
 - 5 składników (definicje, lokalizacje)
 - Wzgórze (struktury zewnętrzne, 5 grup jąder)
 - VPL vs VPM (lokalizacja, funkcje, objawy uszkodzenia)
@@ -1116,16 +1196,19 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 - Ciała kolankowate (boczne - wzrok, przyśrodkowe - słuch)
 
 **Powierzchnia podstawna mózgowia:**
+
 - 3 części (tylna, środkowa, przednia)
 - Wszystkie struktury widoczne od dołu
 - **12 nerwów czaszkowych** (miejsca wyjścia - WSZYSTKIE!)
 
 **Unaczynienie:**
+
 - Koło tętnicze mózgu (składniki)
 - 2 układy odpływu żylnego
 - Brak naczyń limfatycznych
 
 **Drogi przewodzenia:**
+
 - **Droga piramidowa** (2 drogi, 2 neurony, przebieg szczegółowy, krzyżowanie)
 - **Droga wzrokowa** (4 neurony, skrzyżowanie, pole 17, rzutowanie)
 - **Droga słuchowa** (4 neurony, pola 41-42, obustronne, rzutowanie)
@@ -1137,6 +1220,6 @@ Drogi przewodzące impulsy z receptorów rozmieszczonych w **skórze** i **narz�
 
 **KONIEC PODSUMOWANIA WYKŁADU 6**
 
-*Opracowano na podstawie transkryptu wykładu z neuroanatomii*
-*Materiał zoptymalizowany pod egzamin – zwięzłe definicje, tabele, schematy*
-*W następnym wykładzie: nerwy obwodowe, układ autonomiczny, narządy zmysłów (oko, ucho)*
+_Opracowano na podstawie transkryptu wykładu z neuroanatomii_
+_Materiał zoptymalizowany pod egzamin – zwięzłe definicje, tabele, schematy_
+_W następnym wykładzie: nerwy obwodowe, układ autonomiczny, narządy zmysłów (oko, ucho)_

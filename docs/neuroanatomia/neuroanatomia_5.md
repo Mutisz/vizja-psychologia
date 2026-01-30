@@ -1,8 +1,13 @@
 ﻿# NEUROANATOMIA - WYKŁAD 5: UKŁAD LIMBICZNY, JĄDRA PODSTAWY I ISTOTA BIAŁA
 
+### [Transkrypcja](transkrypcje/neuroanatomia_5_transkrypcja.md)
+
+---
+
 ## 1. PŁAT LIMBICZNY (LOBUS LIMBICUS)
 
 ### Definicja
+
 **Płat limbiczny** – część układu limbicznego, struktura kory mózgowej otaczająca struktury międzymózgowia
 
 **Funkcje:** Emocje, motywacja, pamięć
@@ -16,6 +21,7 @@
 **Bruzda obręczy** (sulcus cinguli)
 
 **Zakręt obręczy** (gyrus cinguli)
+
 - Położenie: Między bruzdą ciała modzelowatego (nad ciałem modzelowatym) a bruzdą obręczy
 - Widoczny na powierzchni **przyśrodkowej**
 - **Cieśń zakrętu obręczy** – pod płatem ciała modzelowatego
@@ -35,11 +41,13 @@
 **Przebieg:** Biegnie podłużnie od przodu, zaginając się i tworząc **hak**
 
 **Granice:**
+
 - Przyśrodkowo: **bruzda hipokampa**
 - Bocznie-przednie: **bruzda węchowa**
 - Od tyłu: **bruzda poboczna**
 
 **Zawiera:**
+
 - Zakręt hipokampa
 - Hak (uncus)
 
@@ -54,6 +62,7 @@
 **Położenie:** Przyśrodkowo od bruzdy hipokampa
 
 **Kształt:** Pasmo biegnące równolegle do:
+
 - Od przodu: Odnogi sklepienia
 - Od tyłu i góry: Zakręt tasiemeczkowy
 
@@ -104,11 +113,11 @@
 
 ### Formacja hipokampa (3 struktury)
 
-| Struktura | Opis |
-|-----------|------|
-| **Zakręt zębaty** | - |
-| **Hipokamp właściwy** | Dawniej: Róg Ammona |
-| **Podkładka** (subiculum) | - |
+| Struktura                 | Opis                |
+| ------------------------- | ------------------- |
+| **Zakręt zębaty**         | -                   |
+| **Hipokamp właściwy**     | Dawniej: Róg Ammona |
+| **Podkładka** (subiculum) | -                   |
 
 ---
 
@@ -117,6 +126,7 @@
 **Pochodzenie:** Rozwinięcie skrajnego obszaru kory mózgowej
 
 **Mechanizm powstawania:**
+
 - Wkleśnięcie warstwy korowej do światła komory bocznej (obszar rogu skroniowego)
 - Zbudowany z **kory starej** (allocortex)
 - Zwinięcie i przesunięcie w głąb mózgu
@@ -128,10 +138,10 @@
 
 **2 główne części:**
 
-| Część | Położenie | Charakterystyka |
-|-------|-----------|-----------------|
-| **Grzbietowa** | Bliżej przegrody | Strukturalnie podobna do brzusznej, ale inny obwód nerwowy |
-| **Brzuszna** | W pobliżu części skroniowej | - |
+| Część          | Położenie                   | Charakterystyka                                            |
+| -------------- | --------------------------- | ---------------------------------------------------------- |
+| **Grzbietowa** | Bliżej przegrody            | Strukturalnie podobna do brzusznej, ale inny obwód nerwowy |
+| **Brzuszna**   | W pobliżu części skroniowej | -                                                          |
 
 ---
 
@@ -152,12 +162,12 @@
 
 **Podstawa wyróżnienia:** Rozmieszczenie i struktura neuronów warstwy piramidowej
 
-| Pole | Charakterystyka |
-|------|-----------------|
-| **CA1** | Znacznie rozwinięte u człowieka; graniczy z podkładką; lokalizacja: boczna i dolna powierzchnia hipokampa |
+| Pole    | Charakterystyka                                                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------------- |
+| **CA1** | Znacznie rozwinięte u człowieka; graniczy z podkładką; lokalizacja: boczna i dolna powierzchnia hipokampa     |
 | **CA2** | Bardzo wąskie; ciasno rozmieszczone neurony na małym obszarze; **u ludzi występuje, u większości ssaków NIE** |
-| **CA3** | Niższa gęstość neuronalna |
-| **CA4** | Niższa gęstość neuronalna; różni się od CA3 tylko topografią |
+| **CA3** | Niższa gęstość neuronalna                                                                                     |
+| **CA4** | Niższa gęstość neuronalna; różni się od CA3 tylko topografią                                                  |
 
 **Pola wyróżniono na podstawie:** Wrażliwości na czynniki chorobowe
 
@@ -168,6 +178,7 @@
 **Charakter:** Bardzo skomplikowane
 
 **Połączenia z:**
+
 - Ośrodki podkorowe (międzymózgowie, pień mózgu)
 - Zazwyczaj: **Połączenia dwukierunkowe**
 - Przebieg: Wzdłuż **sklepienia**
@@ -175,9 +186,11 @@
 **Główny neuroprzekaźnik:** **Acetylocholina** (włókna cholinergiczne)
 
 **Włókna spoidłowe sklepienia:**
+
 - Łączą pola hipokampa prawej i lewej półkuli
 
 **Neurony wstawkowe:**
+
 - Z układu węchowego (zakręt zębaty, kora śródwęchowa)
 
 ---
@@ -215,6 +228,7 @@ z powrotem → Kora śródwęchowa
 ### Funkcje hipokampa
 
 ✅ **Uczenie się:**
+
 - Pacjenci z uszkodzonym hipokampem: Nie mogą nauczyć się nowych informacji
 - Wcześniej zapamiętane informacje: **Dostępne** (ciekawe!)
 
@@ -223,6 +237,7 @@ z powrotem → Kora śródwęchowa
 ✅ **Pamięć przestrzenna**
 
 ✅ **Rozpoznawanie nowości:**
+
 - Wszystkie nowości rozpoznawane w hipokampie
 
 ✅ **Wpływ na inne struktury** (przez połączenia z korą mózgu, wzgórzem)
@@ -236,12 +251,14 @@ z powrotem → Kora śródwęchowa
 #### 1. Przegroda przeźroczysta (septum pellucidum)
 
 **Budowa:**
+
 - 2 blaszki przegrody przeźroczystej
 - Między blaszkami: **Jama przegrody przeźroczystej**
 
 **Funkcja:** Rozdziela 2 rogi czołowe komór bocznych
 
 **Jama przegrody:**
+
 - Przestrzeń zamknięta
 - **NIE łączy się** z innymi przestrzeniami (komory, jamy mózgowia)
 
@@ -252,6 +269,7 @@ z powrotem → Kora śródwęchowa
 **Lokalizacja:** Poniżej dzioba ciała modzelowatego
 
 **Granice:**
+
 - Od przodu: Blaszka krańcowa, pole podspoidłowe
 - Oddzielona: Bruzdą krzywą tylną
 - Od dołu: Sąsiaduje z zakrętem przekątnym istoty dziurkowanej przedniej
@@ -265,6 +283,7 @@ z powrotem → Kora śródwęchowa
 **Jądra podstawy** = **Jądra podstawne** = **Jądra kresu mózgowia**
 
 **Definicja:** Grupa jąder (skupisk ciał komórek nerwowych) w OUN, które wysyłają projekcje do:
+
 - Kory mózgowej
 - Wzgórza
 - Pnia mózgu
@@ -276,18 +295,18 @@ z powrotem → Kora śródwęchowa
 ✅ Kontrola ruchów  
 ✅ Procesy poznawcze  
 ✅ Emocje  
-✅ Uczenie się  
+✅ Uczenie się
 
 ---
 
 ### Składniki jąder podstawy
 
-| Jądro | Składniki |
-|-------|-----------|
-| **Jądro ogoniaste** (nucleus caudatus) | - |
+| Jądro                                        | Składniki                                                                              |
+| -------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Jądro ogoniaste** (nucleus caudatus)       | -                                                                                      |
 | **Jądro soczewkowate** (nucleus lentiformis) | **Skorupa** (putamen) + **Gałka blada** (globus pallidus: część przyśrodkowa i boczna) |
-| **Przedmurze** (claustrum) | - |
-| **Ciało migdałowate** (corpus amygdaloideum) | Zespół jąder |
+| **Przedmurze** (claustrum)                   | -                                                                                      |
+| **Ciało migdałowate** (corpus amygdaloideum) | Zespół jąder                                                                           |
 
 ---
 
@@ -295,10 +314,10 @@ z powrotem → Kora śródwęchowa
 
 #### Ze względów embriologicznych (rozwojowych)
 
-| Zespół | Składniki |
-|--------|-----------|
-| **Prążkowie** (striatum) | Jądro ogoniaste + skorupa |
-| **Jądro soczewkowate** | Gałka blada + skorupa |
+| Zespół                                 | Składniki                            |
+| -------------------------------------- | ------------------------------------ |
+| **Prążkowie** (striatum)               | Jądro ogoniaste + skorupa            |
+| **Jądro soczewkowate**                 | Gałka blada + skorupa                |
 | **Ciało prążkowane** (corpus striatum) | Jądro soczewkowate + jądro ogoniaste |
 
 ---
@@ -310,11 +329,13 @@ z powrotem → Kora śródwęchowa
 **Kształt:** Wydłużony, zakrzywiony
 
 **Części:**
+
 - **Głowa** – gruba, zgrubienie przednie
 - **Trzon** – zwęża się stopniowo
 - **Ogon** – najcieńsza część, kieruje się do przodu
 
 **Powierzchnia:**
+
 - Przyśrodkowa: Gładka (przylega do komory bocznej)
 - Boczna: Nierówna (przylega do torebki wewnętrznej)
 
@@ -352,10 +373,10 @@ z powrotem → Kora śródwęchowa
 
 ##### 2 części ciała migdałowatego
 
-| Część | Wiek filogenetyczny | Rola | Charakterystyka |
-|-------|---------------------|------|-----------------|
-| **Korowo-przyśrodkowa** | Starsza | Pobudzająca | Przylega do zakrętu półksiężycowatego; połączenie z prążkiem węchowym bocznym; 3 główne kompleksy jąder: korowy, przyśrodkowy, środkowy |
-| **Podstawno-boczna** | Młodsza | Hamująca | Pod wpływem kory; 2 duże kompleksy: jądro boczne, jądro podstawne |
+| Część                   | Wiek filogenetyczny | Rola        | Charakterystyka                                                                                                                         |
+| ----------------------- | ------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Korowo-przyśrodkowa** | Starsza             | Pobudzająca | Przylega do zakrętu półksiężycowatego; połączenie z prążkiem węchowym bocznym; 3 główne kompleksy jąder: korowy, przyśrodkowy, środkowy |
+| **Podstawno-boczna**    | Młodsza             | Hamująca    | Pod wpływem kory; 2 duże kompleksy: jądro boczne, jądro podstawne                                                                       |
 
 ---
 
@@ -376,10 +397,12 @@ Podwzgórze, pień mózgu, narządy efektorowe
 #### Przedmurze (claustrum)
 
 **Charakterystyka:**
+
 - Cienka warstwa istoty szarej (~1-2 mm)
 - Między torebką ostatnią a torebką zewnętrzną
 
 **Granice:**
+
 - Torebka zewnętrzna: Oddziela od jądra soczewkowatego
 - Torebka ostatnia: Oddziela od wyspy
 
@@ -388,6 +411,7 @@ Podwzgórze, pień mózgu, narządy efektorowe
 **Połączenia:** Pętla neuronalna przedmurze-kora (sprzężenie zwrotne)
 
 **Powierzchnie:**
+
 - Boczna: Pofalowana
 - Przyśrodkowa: Gładka
 
@@ -405,9 +429,9 @@ Podwzgórze, pień mózgu, narządy efektorowe
 
 ### Układ piramidowy vs pozapiramidowy
 
-| Układ | Funkcje |
-|-------|---------|
-| **Piramidowy** | Czynności wymagające skupienia (nauka jazdy na rowerze, nauka pisania) |
+| Układ              | Funkcje                                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Piramidowy**     | Czynności wymagające skupienia (nauka jazdy na rowerze, nauka pisania)                                                              |
 | **Pozapiramidowy** | **Automatyzacja** czynności wcześniej kontrolowanych przez układ piramidowy; odciążanie OUN; wspomaganie; regulacja napięcia mięśni |
 
 **Przykład:** Nauka jazdy samochodem → wymaga skupienia (piramidowy) → z czasem automatyzacja (pozapiramidowy) → prowadzenie "jak robot"
@@ -425,11 +449,11 @@ Podwzgórze, pień mózgu, narządy efektorowe
 
 #### Składniki korowe
 
-| Struktura | Ośrodek |
-|-----------|---------|
-| Tylna część zakrętu czołowego górnego | Ośrodek ruchów tułowia |
-| Tylna część zakrętu czołowego środkowego | Ośrodek skojarzenia ruchów głowy z ruchami gałek ocznych |
-| Tylna część zakrętu czołowego dolnego | Ośrodek mowy Broki – koordynacja mięśni: artykulacji, żuchwy, twarzy, języka, podniebienia miękkiego, krtani, mięśni oddechowych |
+| Struktura                                | Ośrodek                                                                                                                          |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Tylna część zakrętu czołowego górnego    | Ośrodek ruchów tułowia                                                                                                           |
+| Tylna część zakrętu czołowego środkowego | Ośrodek skojarzenia ruchów głowy z ruchami gałek ocznych                                                                         |
+| Tylna część zakrętu czołowego dolnego    | Ośrodek mowy Broki – koordynacja mięśni: artykulacji, żuchwy, twarzy, języka, podniebienia miękkiego, krtani, mięśni oddechowych |
 
 **Dodatkowo:** Badane intensywnie (słabiej poznane) składniki w płacie ciemieniowym i skroniowym
 
@@ -440,10 +464,12 @@ Podwzgórze, pień mózgu, narządy efektorowe
 #### 1. Ciało prążkowane (corpus striatum)
 
 **Składniki:**
+
 - Jądro ogoniaste + jądro soczewkowate
 - **Prążkowie** (jądro ogoniaste + skorupa)
 
 **Podział:**
+
 - Ciało prążkowane = gałka blada + prążkowie
 
 **Funkcja:** Kierowanie ruchami zautomatyzowanymi i napięciem mięśniowym
@@ -499,17 +525,21 @@ Podwzgórze, pień mózgu, narządy efektorowe
 ##### Połączenia jądra czerwiennego
 
 **Doprowadzające:**
+
 - Móżdżek (przez konar górny)
 - Kora przedruchowa (droga korowo-czerwienna)
 
 **Odprowadzające:**
+
 - Neurony skrzyżowane → tworzą **drogę czerwienno-rdzeniową** (przez środkową część nakrywki do oliwki dolnej)
 - Impulsy do wzgórza
 
 **Funkcje:**
+
 - Regulacja napięcia mięśniowego
 
 **Uszkodzenie:**
+
 - Ataksja
 - Drgania mięśni przeciwległej strony ciała
 - Ruchy pląsawicze
@@ -519,22 +549,27 @@ Podwzgórze, pień mózgu, narządy efektorowe
 ### Połączenia w układzie pozapiramidowym (schemat)
 
 **Prążkowie:**
+
 - Otrzymuje: Kora nowa, wzgórze, istota czarna
 - Wysyła: Gałka blada, istota czarna
 
 **Gałka blada:**
+
 - Otrzymuje: Prążkowie, jądro niskowzgórzowe
 - Wysyła: Jądro niskowzgórzowe, wzgórze, jądro kolorowo-mostowe
 
 **Jądra niskowzgórzowe:**
+
 - Otrzymuje: Gałka blada, kora ruchowa
 - Wysyła: Wzgórze
 
 **Wzgórze:**
+
 - Otrzymuje: Gałka blada, istota czarna
 - Wysyła: **Kora ruchowa** (pole 4), **kora przedruchowa** (pole 6), dodatkowa kora ruchowa (pole 6), prążkowie
 
 **Istota czarna:**
+
 - Otrzymuje: Prążkowie
 - Wysyła: Prążkowie, wzgórze
 
@@ -545,6 +580,7 @@ Podwzgórze, pień mózgu, narządy efektorowe
 ### Mechanizm
 
 **Przyczyna:**
+
 - Odbarwienie i zwyrodnienie neuronów **istoty czarnej**
 - Zaburzenia prążkowania
 - ↓ stężenia **dopaminy** w jądrze ogoniastym i skorupie
@@ -553,23 +589,24 @@ Podwzgórze, pień mózgu, narządy efektorowe
 
 ### Objawy choroby Parkinsona
 
-| Objaw | Opis |
-|-------|------|
-| **Wzmożone napięcie mięśniowe** | Sztywność (**rygor**) |
-| **Rygor typu koła zębatego** | = Sztywność typu plastycznego = rygor typu rury ołowianej |
-| **Hipokineza** | Spowolnienie ruchowe |
-| **Hipo- i bradykinezja** | Trudności w rozpoczęciu i zakończeniu ruchu (wstawanie z łóżka, przygotowywanie posiłków) |
-| **Twarz maskowata** | Hipo/amimiczna |
-| **Drżenie spoczynkowe rąk** | Uniemożliwia precyzyjne ruchy |
-| **Daszkowate ustawienie palców** | Charakterystyczne ułożenie |
-| **Przygarbiona postawa** | - |
-| **Chód drobnymi kroczkami** | - |
+| Objaw                            | Opis                                                                                      |
+| -------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Wzmożone napięcie mięśniowe**  | Sztywność (**rygor**)                                                                     |
+| **Rygor typu koła zębatego**     | = Sztywność typu plastycznego = rygor typu rury ołowianej                                 |
+| **Hipokineza**                   | Spowolnienie ruchowe                                                                      |
+| **Hipo- i bradykinezja**         | Trudności w rozpoczęciu i zakończeniu ruchu (wstawanie z łóżka, przygotowywanie posiłków) |
+| **Twarz maskowata**              | Hipo/amimiczna                                                                            |
+| **Drżenie spoczynkowe rąk**      | Uniemożliwia precyzyjne ruchy                                                             |
+| **Daszkowate ustawienie palców** | Charakterystyczne ułożenie                                                                |
+| **Przygarbiona postawa**         | -                                                                                         |
+| **Chód drobnymi kroczkami**      | -                                                                                         |
 
 ---
 
 ## 7. ISTOTA BIAŁA KRESU MÓZGOWIA
 
 ### Definicja
+
 **Istota biała** – skupiska włókien nerwowych (aksonów) z osłonką mielinową
 
 ---
@@ -587,6 +624,7 @@ Podwzgórze, pień mózgu, narządy efektorowe
 ## 8. WŁÓKNA PROJEKCYJNE (RZUTOWE)
 
 ### Definicja
+
 Włókna łączące korę mózgową z niżej położonymi ośrodkami OUN
 
 **Tworzą:** **Torebkę wewnętrzną** (capsula interna)
@@ -605,11 +643,11 @@ Włókna łączące korę mózgową z niżej położonymi ośrodkami OUN
 
 #### 3 części torebki wewnętrznej
 
-| Część | Lokalizacja |
-|-------|-------------|
+| Część               | Lokalizacja                                     |
+| ------------------- | ----------------------------------------------- |
 | **Odnoga przednia** | Między jądrem ogoniastym a jądrem soczewkowatym |
-| **Kolano** | Załamanie między odnogami |
-| **Odnoga tylna** | Między wzgórzem a jądrem soczewkowatym |
+| **Kolano**          | Załamanie między odnogami                       |
+| **Odnoga tylna**    | Między wzgórzem a jądrem soczewkowatym          |
 
 ---
 
@@ -630,17 +668,18 @@ Włókna łączące korę mózgową z niżej położonymi ośrodkami OUN
 
 **Ważne klinicznie (udary!):**
 
-| Część | Unaczynienie |
-|-------|--------------|
-| **Odnoga przednia** | Tętnica przednia mózgu |
-| **Kolano** | Tętnica szyjna wewnętrzna |
-| **Odnoga tylna** | Tętnica szyjna wewnętrzna |
+| Część               | Unaczynienie              |
+| ------------------- | ------------------------- |
+| **Odnoga przednia** | Tętnica przednia mózgu    |
+| **Kolano**          | Tętnica szyjna wewnętrzna |
+| **Odnoga tylna**    | Tętnica szyjna wewnętrzna |
 
 ---
 
 #### Uszkodzenie torebki wewnętrznej
 
 **Przyczyny:**
+
 - Niedokrwienie (ostre niedokrwienie = **zawał mózgu**)
 - Udar
 
@@ -648,28 +687,29 @@ Włókna łączące korę mózgową z niżej położonymi ośrodkami OUN
 
 **Objawy:**
 
-| Objaw | Strona |
-|-------|--------|
-| Osłabienie czucia dotyku | Przeciwna |
-| Zniesienie czucia bólu | Przeciwna |
-| Niedowład połowiczny | Przeciwstronne |
-| Porażenie dolnej części twarzy | Przeciwstronne (n. VII) |
-| Niedowidzenie połowiczne | Jednoimienne i przeciwstronne |
+| Objaw                          | Strona                        |
+| ------------------------------ | ----------------------------- |
+| Osłabienie czucia dotyku       | Przeciwna                     |
+| Zniesienie czucia bólu         | Przeciwna                     |
+| Niedowład połowiczny           | Przeciwstronne                |
+| Porażenie dolnej części twarzy | Przeciwstronne (n. VII)       |
+| Niedowidzenie połowiczne       | Jednoimienne i przeciwstronne |
 
 ---
 
 #### Inne torebki
 
-| Torebka | Położenie |
-|---------|-----------|
-| **Torebka zewnętrzna** | Między jądrem soczewkowatym a przedmurzem |
-| **Torebka ostatnia** | Bocznie od przedmurza, przyśrodkowo od wyspy |
+| Torebka                | Położenie                                    |
+| ---------------------- | -------------------------------------------- |
+| **Torebka zewnętrzna** | Między jądrem soczewkowatym a przedmurzem    |
+| **Torebka ostatnia**   | Bocznie od przedmurza, przyśrodkowo od wyspy |
 
 ---
 
 ## 9. WŁÓKNA SPOIDŁOWE (COMMISSURALNE)
 
 ### Definicja
+
 Włókna łączące obie półkule mózgu; zapewniają koordynację obu półkul
 
 **Biegną w:** Spoidłach (skupiska włókien spoidłowych)
@@ -711,6 +751,7 @@ Włókna łączące obie półkule mózgu; zapewniają koordynację obu półkul
 ##### Części ciała modzelowatego
 
 **Część pośrodkowa (nieparzysta):**
+
 - Biegnie w szczelinie podłużnej mózgu
 - **4 części:**
   1. **Dziób** (rostrum)
@@ -719,6 +760,7 @@ Włókna łączące obie półkule mózgu; zapewniają koordynację obu półkul
   4. **Płat** (splenium)
 
 **Część boczna (parzysta):**
+
 - Zlokalizowana w półkulach
 - Wytwarza: **Promienistość ciała modzelowatego**
 - Włókna rozchodzą się w różnych kierunkach
@@ -728,6 +770,7 @@ Włókna łączące obie półkule mózgu; zapewniają koordynację obu półkul
 ## 10. WŁÓKNA KOJARZENIOWE (ASOCJACYJNE)
 
 ### Definicja
+
 Włókna łączące różne części tej samej półkuli
 
 ---
@@ -751,24 +794,30 @@ Włókna łączące różne części tej samej półkuli
 ##### Rodzaje włókien długich
 
 **1. Obręcz (cingulum)**
+
 - Przebieg: Wzdłuż zakrętu obręczy
 - Łączy: Zakręty czołowe, pola podspoidłowe → zakręty potyliczny i skroniowy (boczny, przyśrodkowy) + hipokamp
 
 **2. Pęczek haczykowaty (fasciculus uncinatus)**
+
 - Łączy: Zakręty oczodołowe płata czołowego + przednia część płata czołowego
 - Zatacza łuk nad bruzdą boczną
 
 **3. Pęczek podłużny górny (fasciculus longitudinalis superior)**
+
 - Położenie: Płaszczyzna czołowa, powyżej jądra soczewkowatego
 - Biegnie bocznie od wieńca promienistego
 
 **4. Pęczek podłużny dolny (fasciculus longitudinalis inferior)**
+
 - Łączy: Płat skroniowy z płatem potylicznym
 
 **5. Pęczek podspoidłowy**
+
 - Łączy: Płat czołowy z płatem potylicznym
 
 **6. Pęczek potyliczny pionowy**
+
 - Łączy: Płaty ciemieniowe z płatem skroniowym i płatem potylicznym (częściowo)
 
 ---
@@ -778,6 +827,7 @@ Włókna łączące różne części tej samej półkuli
 ### 🔑 Płat limbiczny i hipokamp
 
 **Płat limbiczny – główne struktury:**
+
 - Bruzda i zakręt obręczy
 - Zakręt tasiemeczkowy
 - Zakręt przyh ipokampowy (z hakiem)
@@ -785,9 +835,11 @@ Włókna łączące różne części tej samej półkuli
 - Strzępek hipokampa
 
 **Formacja hipokampa:**
+
 - Zakręt zębaty + hipokamp + podkładka
 
 **Hipokamp:**
+
 - Kształt: Konik morski (odwrócona C)
 - Funkcje: Uczenie się, pamięć długotrwała, pamięć przestrzenna, rozpoznawanie nowości
 - Pola CA1-CA4
@@ -798,12 +850,14 @@ Włókna łączące różne części tej samej półkuli
 ### 🔑 Jądra podstawy
 
 **Składniki:**
+
 - Jądro ogoniaste
 - Jądro soczewkowate (skorupa + gałka blada)
 - Przedmurze
 - Ciało migdałowate
 
 **Zespoły:**
+
 - **Prążkowie** = jądro ogoniaste + skorupa
 - **Ciało prążkowane** = prążkowie + gałka blada
 - **Jądro soczewkowate** = skorupa + gałka blada
@@ -815,12 +869,14 @@ Włókna łączące różne części tej samej półkuli
 **Funkcja:** Automatyzacja czynności (odciążanie OUN)
 
 **Składniki podkorowe:**
+
 - Ciało prążkowane
 - Jądro niskowzgórzowe
 - **Istota czarna** (dopamina)
 - **Jądro czerwienne**
 
 **Choroba Parkinsona:**
+
 - Zwyrodnienie istoty czarnej
 - ↓ dopamina
 - Objawy: rygor, hipokineza, drżenie spoczynkowe, twarz maskowata, chód drobnymi kroczkami
@@ -830,16 +886,19 @@ Włókna łączące różne części tej samej półkuli
 ### 🔑 Istota biała
 
 **3 typy włókien:**
+
 1. **Projekcyjne** (torebka wewnętrzna)
 2. **Spoidłowe** (łączą półkule)
 3. **Kojarzeniowe** (w obrębie półkuli)
 
 **Torebka wewnętrzna:**
+
 - Odnoga przednia + kolano + odnoga tylna
 - Unaczynienie: tętnica przednia mózgu, tętnica szyjna wewnętrzna
 - Uszkodzenie → poważne objawy (niedowład połowiczny, zaburzenia czucia)
 
 **3 główne spoidła:**
+
 - Spoidło przednie
 - Spoidło sklepienia
 - **Ciało modzelowate** (największe: dziób, kolano, trzon, płat)
@@ -848,35 +907,38 @@ Włókna łączące różne części tej samej półkuli
 
 ### 📊 Liczby do zapamiętania
 
-| Parametr | Wartość |
-|----------|---------|
-| Pola hipokampa | CA1, CA2, CA3, CA4 |
-| Pełna dojrzałość hipokampa | ~2 rok życia |
-| Długość jądra niskowzgórzowego | 10-13 mm |
-| Długość jądra czerwiennego | ~5 mm |
-| Średnica jądra czerwiennego | ~10 mm |
-| Grubość przedmurza | 1-2 mm |
-| Długość ciała migdałowatego | ~1,5 cm |
-| Części torebki wewnętrznej | 3 (odnoga przednia, kolano, odnoga tylna) |
-| Części ciała modzelowatego | 4 (dziób, kolano, trzon, płat) |
+| Parametr                       | Wartość                                   |
+| ------------------------------ | ----------------------------------------- |
+| Pola hipokampa                 | CA1, CA2, CA3, CA4                        |
+| Pełna dojrzałość hipokampa     | ~2 rok życia                              |
+| Długość jądra niskowzgórzowego | 10-13 mm                                  |
+| Długość jądra czerwiennego     | ~5 mm                                     |
+| Średnica jądra czerwiennego    | ~10 mm                                    |
+| Grubość przedmurza             | 1-2 mm                                    |
+| Długość ciała migdałowatego    | ~1,5 cm                                   |
+| Części torebki wewnętrznej     | 3 (odnoga przednia, kolano, odnoga tylna) |
+| Części ciała modzelowatego     | 4 (dziób, kolano, trzon, płat)            |
 
 ---
 
 ### ✅ CO NALEŻY DOBRZE ZNAĆ
 
 **Płat limbiczny:**
+
 - Wszystkie struktury (bruzdy, zakręty)
 - Hipokamp (budowa, pola CA, funkcje)
 - Formacja hipokampa (3 elementy)
 - Przegroda kresu mózgowia (2 elementy)
 
 **Jądra podstawy:**
+
 - Wszystkie jądra (nazwy, składniki)
 - Zespoły (prążkowie, ciało prążkowane, jądro soczewkowate)
 - Ciało migdałowate (2 części, funkcje)
 - Przedmurze (lokalizacja, funkcja)
 
 **Układ pozapiramidowy:**
+
 - Różnica: piramidowy vs pozapiramidowy
 - Składniki korowe i podkorowe
 - Jądro niskowzgórzowe
@@ -885,6 +947,7 @@ Włókna łączące różne części tej samej półkuli
 - Choroba Parkinsona (mechanizm, objawy)
 
 **Istota biała:**
+
 - 3 typy włókien
 - Torebka wewnętrzna (3 części, unaczynienie, objawy uszkodzenia)
 - Spoidła (3 główne)
@@ -894,6 +957,6 @@ Włókna łączące różne części tej samej półkuli
 
 **KONIEC PODSUMOWANIA WYKŁADU 5**
 
-*Opracowano na podstawie transkryptu wykładu z neuroanatomii*
-*Materiał zoptymalizowany pod egzamin – zwięzłe definicje, tabele, listy*
-*W następnym wykładzie: międzymózgowie (wzgórza, podwzgórza, nadwzgórza, zawzgórza)*
+_Opracowano na podstawie transkryptu wykładu z neuroanatomii_
+_Materiał zoptymalizowany pod egzamin – zwięzłe definicje, tabele, listy_
+_W następnym wykładzie: międzymózgowie (wzgórza, podwzgórza, nadwzgórza, zawzgórza)_

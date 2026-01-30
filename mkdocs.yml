@@ -1,9 +1,17 @@
 site_name: VIZJA Psychologia
+site_url: https://mutisz.github.io/vizja-psychologia/
 repo_url: https://github.com/Mutisz/vizja-psychologia
+not_in_nav: |
+  /index.md
+  /neuroanatomia/transkrypcje/
+  /neuropsychologia/transkrypcje/
 theme:
   name: material
   locale: pl
   features:
     - navigation.expand
-    - navigation.path
     - navigation.indexes
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+    - toc.integrate

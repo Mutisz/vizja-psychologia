@@ -1,10 +1,13 @@
 ﻿# NEUROPSYCHOLOGIA
 
+---
+
 ## 📚 Kompletny zestaw podsumowań wykładów z neuropsychologii
 
 ### [Wykład 1: Wprowadzenie do neuropsychologii i organizacja kory mózgowej](neuropsychologia_1.md)
 
 **Główne tematy:**
+
 - Definicja neuropsychologii (3 perspektywy czasowe: przeszłość, teraźniejszość, przyszłość)
 - Organizacja kory mózgowej (Brodmann vs Mesulam)
 - Budowa kory nowej (6 warstw, kolumny, hipoteza Rakić)
@@ -21,6 +24,7 @@
 ### [Wykład 2: Teoria lokalizacji funkcji, czas, świadomość i uwaga](neuropsychologia_2.md)
 
 **Główne tematy:**
+
 - Plastyczność półkulowa (lateralizacja, leworęczność, przejęcie funkcji)
 - Plastyczność kompetencyjna (wiek dorosły, uczenie się języka)
 - Teoria lokalizacji funkcji - synteza (mapy mózgu Dehaene & Cohen 2007)
@@ -37,6 +41,7 @@
 ### [Wykład 3: System emocjonalny](neuropsychologia_3.md)
 
 **Główne tematy:**
+
 - Emocje - definicje i podstawowe pojęcia (2 aspekty: afekt i nastrój)
 - 4 rodzaje afektu (wewnętrzny, zewnętrzny, reaktywny, spontaniczny)
 - Relacja figura-tło (Gestalt: afekt=figura, nastrój=tło)
@@ -55,6 +60,7 @@
 ### [Wykład 4: Systemy sensoryczne i sieci wagowe](neuropsychologia_4.md)
 
 **Główne tematy:**
+
 - Czucie vs percepcja (odkrycie vs interpretacja)
 - **MIT Vicarego 1957** (eksperyment ZMYŚLONY! - fundament neuromarketingu)
 - System wzrokowy (czopki vs pręciki, plamka żółta, ruchy sakadowe, widzenie stereoskopowe)
@@ -74,6 +80,7 @@
 ### [Wykład 5: Systemy pamięci](neuropsychologia_5.md)
 
 **Główne tematy:**
+
 - Definicje pamięci (William James: pierwotna vs wtórna; współczesna: retrospektywna+prospektywna)
 - 4 modele badania (jakościowe, ilościowe, parametryczne, różnic indywidualnych)
 - Model Atkinsona-Shiffrina (lata 60., problem z danymi klinicznymi)
@@ -95,6 +102,7 @@
 ### [Wykład 6: System wykonawczy i funkcje wykonawcze](neuropsychologia_6.md)
 
 **Główne tematy:**
+
 - Definicje funkcji wykonawczych (Butterfield & Belmont: spontaniczny wybór i zmiana strategii)
 - NIE tylko płat czołowy - cały mózg!
 - 2 sytuacje wykorzystania (zmiana zadania, nieskuteczna strategia)
@@ -117,40 +125,49 @@
 
 **Przełomowe koncepcje:** Jądra podstawy (prawdziwy manager!), dopamina (modulator), heterogeniczny charakter (splecione ze wszystkim), model łączny, teoria mikrogenetyczna
 
+---
 
 ## 🎯 Jak korzystać z materiałów?
 
 ### Strategia nauki przed egzaminem
 
 **Etap 1: Przegląd ogólny (1-2 dni przed)**
+
 - Przeczytaj sekcje "Kluczowe informacje do zapamiętania" ze wszystkich wykładów
 - Zwróć uwagę na sekcje "CO NALEŻY DOBRZE ZNAĆ"
 - Przejrzyj tabele z kluczowymi liczbami
 
 **Etap 2: Pogłębienie (3-5 dni przed)**
+
 - Szczegółowa lektura każdego wykładu
 - Tworzenie własnych notatek na bazie podsumowań
 - Porównywanie powiązanych koncepcji między wykładami
 
 **Etap 3: Utrwalanie (tydzień przed)**
+
 - Aktywne przypominanie (bez patrzenia w notatki)
 - Rysowanie schematów z pamięci
 - Wyjaśnianie koncepcji na głos
 
 **Etap 4: Ostatnie powtórki (dzień przed)**
+
 - Przegląd sekcji podsumowujących
 - Flashcards z kluczowymi definicjami
 - Skupienie na numerach i datach
+
+---
 
 ## 🔗 Powiązania między wykładami
 
 ### Wątki powtarzające się
 
 **Plastyczność mózgu:**
+
 - Wykład 1: Podstawy plastyczności (2 typy, 6 mechanizmów)
 - Wykład 2: Plastyczność półkulowa i kompetencyjna
 
 **Systemy funkcjonalne:**
+
 - Wykład 1: 4 systemy funkcjonalne + neuromodulacja
 - Wykład 3: System emocjonalny (krąg Papeza)
 - Wykład 4: Systemy sensoryczne
@@ -158,35 +175,43 @@
 - Wykład 6: System wykonawczy
 
 **Modele teoretyczne:**
+
 - Wykład 1: Łuria (hierarchiczny) vs Freeman (rozproszone)
 - Wykład 2: Teoria lokalizacji (synteza)
 - Wykład 4: Neurony babci (lokalne vs rozproszone)
 - Wykład 6: Model łączny vs nadrzędny
 
 **Struktury kluczowe:**
+
 - Hipokamp: Wykład 5 (pamięć epizodyczna, rytmy theta), Wykład 1 (plastyczność)
 - Kora przedczołowa: Wykład 2 (uwaga wykonawcza), Wykład 5 (pamięć semantyczna), Wykład 6 (funkcje wykonawcze)
 - Jądra podstawy: Wykład 6 (manager mózgu, dopamina)
 - Układ limbiczny: Wykład 3 (emocje, krąg Papeza), Wykład 2 (bodźce emocjonalne)
 
 **Neuroprzekaźniki:**
+
 - Wykład 1: 4 neuroprzekaźniki (dopamina, serotonina, noradrenalina, acetylocholina)
 - Wykład 5: Acetylocholina (pamięć deklaratywna), dopamina+adrenalina (proceduralna)
 - Wykład 6: Dopamina (modulator, układ nagrody, sekundy)
 
+---
+
 ## ⚠️ Najczęstsze pułapki egzaminacyjne
 
 **1. Mylenie podobnych konceptów:**
+
 - Psychologia Gestalt ≠ Psychoterapia Gestalt (Wykład 2 i 3)
 - Pamięć krótkotrwała ≠ Pamięć robocza (Wykład 5)
 - Afazja ≠ Apraksja (Wykład 6)
 
 **2. Błędne atrybucje:**
+
 - Mit Vicarego (1957) - eksperyment ZMYŚLONY! (Wykład 4)
 - Hipoteza informacji zwrotnej - meta-analiza 2016: efekt NIE istnieje (Wykład 3)
 - H.M. - nie tylko hipokamp, także funkcje czołowe (Wykład 5)
 
 **3. Liczby do zapamiętania:**
+
 - 50 pól Brodmanna, 6 warstw kory (Wykład 1)
 - 3 wymiary czasu, 4 systemy uwagi (Wykład 2)
 - 6 podstawowych emocji → 4 statycznie rozpoznawalne (Wykład 3)
@@ -195,6 +220,7 @@
 - 3S: Start-Stop-Shifting (Wykład 6)
 
 **4. Kluczowe daty:**
+
 - 1937: Krąg Papeza (Wykład 3)
 - 1955: Teuber - podwójna dysocjacja (Wykład 2)
 - 1957: Mit Vicarego - ZMYŚLONY (Wykład 4)
@@ -206,6 +232,7 @@
 - 2014: Eksperyment dynamiczny - 4→6 emocji (Wykład 3)
 - 2016: Meta-analiza - brak efektu informacji zwrotnej (Wykład 3)
 
+---
 
 ## 🌟 Najważniejsze koncepcje do BARDZO dobrego opanowania
 
@@ -228,38 +255,31 @@
 - Teoria mikrogenetyczna Puchalskiej
 - 4 podejścia diagnostyczne funkcji wykonawczych
 
+---
 
 ## 💡 Wskazówki do odpowiedzi na pytania egzaminacyjne
 
 **Pytanie o struktury:**
+
 - ZAWSZE wspominaj o perspektywie całości (nie tylko izolowane struktury)
 - Przykład: "Funkcje wykonawcze NIE tylko kora czołowa - jądra podstawy jako manager!"
 
 **Pytanie o zaburzenia:**
+
 - Podaj nazwę + mechanizm + przykład
 - Przykład: "PTSD - 5 kryteriów DSM-IV, 50% trauma → 5-10% rozwój"
 
 **Pytanie o teorie:**
+
 - Nazwisko + rok + kluczowe założenie + krytyka (jeśli jest)
 - Przykład: "Vicary 1957 - bodźce podprogowe - ZMYŚLONY eksperyment!"
 
 **Pytanie o różnice:**
+
 - Tabela porównawcza
 - Konkretny przykład ilustrujący różnicę
 - Przykład: "Droga WHAT (brzuszna, CO?, agnozja) vs WHERE (grzbietowa, GDZIE?, lokalizacja)"
 
-## 📝 Licencja i informacje
-
-**Źródło:** Transkrypty wykładów z neuropsychologii (prowadzący: Kacper Łukasiewicz AEH)
-
-**Opracowanie:** Podsumowania zoptymalizowane pod egzamin - system tabel, schematów, kluczowych koncepcji i liczb
-
-**Format:** Markdown z kompletną strukturą do nauki i powtórek
-
-**Ostatnia aktualizacja:** Styczeń 2026
-
----
-
 **Powodzenia na egzaminie! 🎓✨**
 
-*Pamiętaj: Najważniejsze to zrozumienie powiązań między koncepcjami, nie tylko zapamiętywanie faktów!*
+_Pamiętaj: Najważniejsze to zrozumienie powiązań między koncepcjami, nie tylko zapamiętywanie faktów!_
