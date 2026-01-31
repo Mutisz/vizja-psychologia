@@ -98,6 +98,10 @@
 
 ---
 
+### [Wykład 7: Układ obwodowy nerwowy](neuroanatomia_7.md)
+
+---
+
 ## 🎯 Strategia nauki
 
 1. **Przeczytaj wykład** w kolejności 1→2→3→4→5→6

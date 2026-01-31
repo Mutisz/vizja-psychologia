@@ -127,6 +127,10 @@
 
 ---
 
+### [Wykład 7: Funkcje językowe i zaburzenia mowy](neuropsychologia_7.md)
+
+---
+
 ## 🎯 Jak korzystać z materiałów?
 
 ### Strategia nauki przed egzaminem
