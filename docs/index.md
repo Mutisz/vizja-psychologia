@@ -19,6 +19,7 @@ Ten zbiór zawiera szczegółowe, zoptymalizowane pod egzamin podsumowania wykł
 Eksploruj zagadnienia od organizacji kory mózgowej, przez systemy percepcji i pamięci, aż po złożone funkcje wykonawcze. Poznaj kluczowe teorie (Łuria, Dehaene & Cohen, Parasuraman), przełomowe odkrycia (neurony babci, neurony lustrzane) oraz przypadki kliniczne (pacjent H.M., PTSD).
 
 **Główne tematy:**
+
 - Organizacja i plastyczność mózgu
 - Systemy uwagi i percepcji
 - System emocjonalny i mimika
@@ -28,7 +29,6 @@ Eksploruj zagadnienia od organizacji kory mózgowej, przez systemy percepcji i p
 
 ➡️ **[Przejdź do spisu wykładów z neuropsychologii](neuropsychologia/index.md)**
 
-
 ### 🔬 Neuroanatomia
 
 **6 wykładów** szczegółowo omawiających strukturę i funkcję układu nerwowego:
@@ -36,6 +36,7 @@ Eksploruj zagadnienia od organizacji kory mózgowej, przez systemy percepcji i p
 Poznaj budowę układu nerwowego od komórki nerwowej po złożone systemy funkcjonalne. Zrozum anatomię rdzenia kręgowego, pnia mózgu, móżdżku i kory mózgowej. Każdy wykład zawiera szczegółowe opisy struktur, szlaków nerwowych i ich znaczenia klinicznego.
 
 **Główne tematy:**
+
 - Komórka nerwowa i tkanka nerwowa
 - Rdzeń kręgowy i nerwy rdzeniowe
 - Pień mózgu (tyłomózgowie, śródmózgowie, międzymózgowie)
@@ -45,10 +46,14 @@ Poznaj budowę układu nerwowego od komórki nerwowej po złożone systemy funkc
 
 ➡️ **[Przejdź do spisu wykładów z neuroanatomii](neuroanatomia/index.md)**
 
+### Niepełnosprawność
+
+➡️ **[Slajdy](niepelnosprawnosc/index.md)**
 
 ### 🔗 Powiązania między tematami
 
 Spisy wykładów zawierają:
+
 - **Mapy powiązań** między wykładami
 - **Wątki powtarzające się** w różnych tematach
 - **Pułapki egzaminacyjne** - co najczęściej mylone
@@ -57,6 +62,7 @@ Spisy wykładów zawierają:
 ### 💡 Konkretne strategie nauki
 
 Każdy spis zawiera:
+
 - **Plan nauki** przed egzaminem (4 etapy)
 - **Techniki odpowiedzi** na różne typy pytań
 - **Priorytety** (must-know vs nice-to-know)
@@ -65,35 +71,40 @@ Każdy spis zawiera:
 ## 🚀 Jak zacząć?
 
 ### Krok 1: Wybierz kurs
+
 Zdecyduj czy chcesz zacząć od **neuropsychologii** (funkcje i procesy) czy **neuroanatomii** (struktury i połączenia)
 
 ### Krok 2: Przejdź do spisu wykładów
+
 Każdy spis zawiera szczegółowy opis wszystkich wykładów oraz strategię nauki
 
 ### Krok 3: Wybierz metodę nauki
 
 **Dla systematycznych:**
+
 - Przeczytaj wykłady po kolei (1→2→3→4→5→6)
 - Twórz własne notatki na bazie podsumowań
 - Wykorzystaj sekcje "Co należy dobrze znać"
 
 **Dla ukierunkowanych tematycznie:**
+
 - Użyj spisu do znalezienia konkretnych tematów
 - Przeskakuj między powiązanymi wykładami
 - Śledź "Wątki powtarzające się"
 
 **Dla przygotowujących się do egzaminu:**
+
 - Zacznij od sekcji "Kluczowe informacje do zapamiętania"
 - Wykorzystaj "Najczęstsze pułapki egzaminacyjne"
 - Stosuj 4-etapową strategię nauki
-
 
 ## 🎓 Strategie nauki
 
 ### Metoda aktywnego przypominania
 
 **Zamiast:** Wielokrotne czytanie
-**Spróbuj:** 
+**Spróbuj:**
+
 1. Przeczytaj sekcję
 2. Zamknij materiały
 3. Wyjaśnij koncepcję na głos / zapisz z pamięci
@@ -102,6 +113,7 @@ Każdy spis zawiera szczegółowy opis wszystkich wykładów oraz strategię nau
 ### Metoda interwałowego powtarzania
 
 **Plan:**
+
 - **Dzień 1:** Przeczytaj wykład, zrób notatki
 - **Dzień 3:** Powtórz z pamięci (bez patrzenia)
 - **Tydzień 1:** Kolejna powtórka
@@ -110,17 +122,18 @@ Każdy spis zawiera szczegółowy opis wszystkich wykładów oraz strategię nau
 ### Metoda map myślowych
 
 **Wykorzystaj:**
+
 - Sekcje "Powiązania między wykładami"
 - Narysuj własne schematy połączeń
 - Dodaj kolory dla różnych typów informacji
 - Powtarzaj rysując mapę z pamięci
-
 
 ## 🔍 Kluczowe koncepcje (przykłady)
 
 ### Z Neuropsychologii:
 
 **Must-know:**
+
 - Model Łurii (3 bloki funkcjonalne)
 - Plastyczność mózgu (typy, mechanizmy)
 - Neurony babci i neurony lustrzane
@@ -128,6 +141,7 @@ Każdy spis zawiera szczegółowy opis wszystkich wykładów oraz strategię nau
 - Funkcje wykonawcze (3S: Start-Stop-Shifting)
 
 **Przełomowe odkrycia:**
+
 - Mit Vicarego (1957) - eksperyment ZMYŚLONY!
 - Neurony lustrzane (lata 90.) = empatia
 - Węch i pamięć (gumka zapachowa!)
@@ -135,6 +149,7 @@ Każdy spis zawiera szczegółowy opis wszystkich wykładów oraz strategię nau
 ### Z Neuroanatomii:
 
 **Must-know:**
+
 - Budowa neuronu (soma, dendryty, akson, synaps)
 - Rdzeń kręgowy (istota szara/biała, drogi)
 - Pień mózgu (3 części: tyłomózgowie, śródmózgowie, międzymózgowie)
@@ -142,10 +157,10 @@ Każdy spis zawiera szczegółowy opis wszystkich wykładów oraz strategię nau
 - Móżdżek (3 warstwy kory, 3 pary szypuł)
 
 **Znaczenie kliniczne:**
+
 - Zespół stożka rdzeniowego
 - Zespół Wallenberga
 - Objawy uszkodzenia móżdżku
-
 
 ## 💪 Wskazówki do sukcesu
 
@@ -205,7 +220,6 @@ Nie chodzi o to, żeby nauczyć się wszystkiego na pamięć, ale o to, żeby **
 
 Wybierz podejście głębokie. Te materiały są zaprojektowane właśnie pod nie.
 
-
 ## 🎯 Zaczynamy!
 
 Wybierz swój kurs i rozpocznij przygodę z neuroscience:
@@ -213,4 +227,3 @@ Wybierz swój kurs i rozpocznij przygodę z neuroscience:
 ### 🧠 [Neuropsychologia - Spis wykładów](neuropsychologia/index.md)
 
 ### 🔬 [Neuroanatomia - Spis wykładów](neuroanatomia/index.md)
-
